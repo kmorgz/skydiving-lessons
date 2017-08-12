@@ -1,3 +1,8 @@
+[B]Version 1.0.7[/B]
+- Added Streamlive.to section (thanks to a dev that wants to remain anonymous)
+- Added TVCatchup Section (thanks to a dev that wants to remain anonymous)
+- Cleaned up some code
+
 [B]Version 1.0.6[/B]
 - Fixed On Demand Movies Section
 

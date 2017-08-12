@@ -1,8 +1,7 @@
 <addons>
-<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.0.6">
+<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.0.7">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="script.module.liveresolver"/>
         <import addon="script.module.urlresolver" version="3.0.0"/>
         <import addon="script.ftvguide.custom" version="0.2.0" optional="true" />
     </requires>
@@ -11,7 +10,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Watch Major American Television Networks Live for Free!</summary>
-        <description>Watch all the best American television channels live and in high quality, completely unrestricted and free of charge! Also watch all the free channels from FilmOn as well as tons of movies on demand!</description>
+        <description>Watch all the best American television channels live and in high quality, completely unrestricted and free of charge! Also watch a ton of live TV from various sources as well as movies on demand!</description>
         <platform>all</platform>
     </extension>
 </addon>
@@ -41,7 +40,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.redacted" name="redacted Private Add-on Repository" version="1.0.0" provider-name="redacted">
+<addon id="repository.redacted" name="redacted Private Add-on Repository" version="1.0.1" provider-name="redacted">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -51,9 +50,9 @@
             <datadir zip="true">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/</datadir>
             <hashes>false</hashes>
 	    <dir>
-                <info compressed="false">https://github.com/zqfaen/tva-common/raw/master/addons.xml</info>
-                <checksum>https://github.com/zqfaen/tva-common/raw/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://github.com/zqfaen/tva-common/raw/master/zips/</datadir>
+		<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
 	    </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
