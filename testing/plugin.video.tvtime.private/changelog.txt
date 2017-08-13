@@ -1,3 +1,6 @@
+[B]Version 1.0.8[/B]
+- Added code to prevent new sections from marking streams as watched
+
 [B]Version 1.0.7[/B]
 - Added Streamlive.to section (thanks to a dev that wants to remain anonymous)
 - Added TVCatchup Section (thanks to a dev that wants to remain anonymous)
