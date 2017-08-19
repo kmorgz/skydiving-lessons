@@ -1,3 +1,13 @@
+[B]Version 1.1.0[/B]
+- Added new Smithsonian Channel to US TV Catchup section
+- Moved SundanceTV section to the US TV Catchup section
+- Thanks again to jokster for the new graphics!
+
+[B]Version 1.0.9[/B]
+- Added new US TV Catchup section (includes DIY Network, Cooking Channel, Food Network, HGTV, and Travel Channel)
+- Added new SundanceTV section
+- Thanks to jokster for the new graphics!!
+
 [B]Version 1.0.8[/B]
 - Added code to prevent new sections from marking streams as watched
 
