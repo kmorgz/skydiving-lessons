@@ -1,3 +1,7 @@
+[B]Version 1.1.1[/B]
+- Cleaned up code
+- Fixed some broken streams in US TV Catchup section
+
 [B]Version 1.1.0[/B]
 - Added new Smithsonian Channel to US TV Catchup section
 - Moved SundanceTV section to the US TV Catchup section
