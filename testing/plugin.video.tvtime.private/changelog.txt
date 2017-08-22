@@ -1,3 +1,7 @@
+[B]Version 1.1.2[/B]
+- Added Freeform section to US TV Catchup section
+- Thanks to jokster for the graphics!!
+
 [B]Version 1.1.1[/B]
 - Cleaned up code
 - Fixed some broken streams in US TV Catchup section
