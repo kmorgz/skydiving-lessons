@@ -1,3 +1,11 @@
+[B]Version 1.1.4[/B]
+- Fixed missing dependency
+
+[B]Version 1.1.3[/B]
+- Added MeTV section to US TV Catchup section
+- Thanks to jokster for the graphics!!
+- Code tweaks
+
 [B]Version 1.1.2[/B]
 - Added Freeform section to US TV Catchup section
 - Thanks to jokster for the graphics!!
