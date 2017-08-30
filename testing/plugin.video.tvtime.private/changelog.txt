@@ -1,0 +1,369 @@
+[B]Version 1.1.7[/B]
+- Added ABC to US TV Catchup section
+- Thanks to jokster for the graphics!
+
+[B]Version 1.1.6[/B]
+- Setup catchup channels to allow resume/watched
+- Setup movies section to allow resume/watched
+
+[B]Version 1.1.5[/B]
+- Removed uneeded code
+
+[B]Version 1.1.4[/B]
+- Fixed missing dependency
+
+[B]Version 1.1.3[/B]
+- Added MeTV section to US TV Catchup section
+- Thanks to jokster for the graphics!!
+- Code tweaks
+
+[B]Version 1.1.2[/B]
+- Added Freeform section to US TV Catchup section
+- Thanks to jokster for the graphics!!
+
+[B]Version 1.1.1[/B]
+- Cleaned up code
+- Fixed some broken streams in US TV Catchup section
+
+[B]Version 1.1.0[/B]
+- Added new Smithsonian Channel to US TV Catchup section
+- Moved SundanceTV section to the US TV Catchup section
+- Thanks again to jokster for the new graphics!
+
+[B]Version 1.0.9[/B]
+- Added new US TV Catchup section (includes DIY Network, Cooking Channel, Food Network, HGTV, and Travel Channel)
+- Added new SundanceTV section
+- Thanks to jokster for the new graphics!!
+
+[B]Version 1.0.8[/B]
+- Added code to prevent new sections from marking streams as watched
+
+[B]Version 1.0.7[/B]
+- Added Streamlive.to section (thanks to a dev that wants to remain anonymous)
+- Added TVCatchup Section (thanks to a dev that wants to remain anonymous)
+- Cleaned up some code
+
+[B]Version 1.0.6[/B]
+- Fixed On Demand Movies Section
+
+[B]Version 1.0.5[/B]
+- Fixes for SPMC
+
+[B]Version 1.0.4[/B]
+- Code tweaks
+
+[B]Version 1.0.3[/B]
+- Code tweaks
+
+[B]Version 1.0.2[/B]
+- Code tweaks
+
+[B]Version 1.0.1[/B]
+- Removed Apollo Sections/Options since they have locked things back down. :(
+- Added option in On Demand Movies section to choose between Vodlocker 'Main Server' or 'Alternate Server'
+- Added Play Trailer option to On Demand Movies section
+- Added support for playing TV Shows via Vodlocker using the Meta addon. Will release Meta player once bugs are worked out
+
+[B]Version 1.0.0[/B]
+- Added On Demand Movies View option. Just enter the numberic value for your favorite view
+
+[B]Version 0.9.9[/B]
+- New Apollo Group TV icon. Thanks jokster!!
+
+[B]Version 0.9.8[/B]
+- Fixed issue with showing proper quality for Apollo Group live tv streams
+
+[B]Version 0.9.7[/B]
+- Apollo TV is back! Over 150 new Live TV channels
+- On Demand Movies section now let's you choose to stream from Apollo TV or VodLocker API
+
+[B]Version 0.9.6[/B]
+- New Recently Added Movies icon. Thanks jokster!
+- Code clean up
+
+[B]Version 0.9.5[/B]
+- Fixed bug in Movies On Demand search feature
+
+[B]Version 0.9.4[/B]
+- Fixed minor Movies On Demand search bug
+
+[B]Version 0.9.3[/B]
+- Fixed additional bug when movie is not found.
+
+[B]Version 0.9.2[/B]
+- Fixed minor bug when movie is not found.
+
+[B]Version 0.9.1[/B]
+- Updated Movies On Demand section to use urlresolver. This increases the number of available streams significantly
+
+[B]Version 0.9.0[/B]
+- Added Recently Added Movies section to Movies On Demand section.
+
+[B]Version 0.8.9[/B]
+- Added new Movies On Demand section!
+
+[B]Version 0.8.8[/B]
+- Added missing FilmOn icon/logo
+
+[B]Version 0.8.7[/B]
+- Updated to use strings.po instead of strings.xml
+- Updated FilmOn section to only show the channels that are still free. This was only tested from the US so results may vary.
+
+[B]Version 0.8.6[/B]
+- Updated ArconaiTV icon to match their new logo. Thanks jokster!!
+
+[B]Version 0.8.5[/B]
+- Refactored how HD streams are pulled in for USTVnow
+
+[B]Version 0.8.4[/B]
+- Updated to support the new USTVnow channel lineup
+
+[B]Version 0.8.3[/B]
+- Removed Apollo TV Guide support
+
+[B]Version 0.8.2[/B]
+- Updated USTVnow API endpoint
+
+[B]Version 0.8.1[/B]
+- Fixed backspace issue after opening SALTS
+
+[B]Version 0.8.0[/B]
+- Bug fix in the Apollo logic
+
+[B]Version 0.7.9[/B]
+- Added "On Demand" section that opens SALTS if SALTS is installed
+- Added logic to only use Apollo xmltv file if Apollo Group is installed and a paid account
+- Added new On Demand and TV Guide icons. Thanks jokster!!
+
+[B]Version 0.7.8[/B]
+- Updated EPG menu item to show as TV Guide if Apollo Group addon is installed since the EPG will contain Apollo channels when Apollo Group addon is installed
+
+[B]Version 0.7.7[/B]
+- Set the TV Guide as an optional dependency
+- Only show the USTVnow (TV Guide) menu if the TV Guide is installed
+
+[B]Version 0.7.6[/B]
+- Added support for TV Time Guide!
+
+[B]Version 0.7.5[/B]
+- Fixed Carribean channels in FilmOn
+
+[B]Version 0.7.4[/B]
+- Code clean up
+
+[B]Version 0.7.3[/B]
+- Rearranged sections to be more intuitive
+- Added new ArconaiTV icon. Thanks jokster!!
+
+[B]Version 0.7.2[/B]
+- Cleaned up code.
+- Renamed 'US TV (ArconaiTV)' to ArconaiTV
+
+[B]Version 0.7.1[/B]
+- Removed option to set the FilmOn quality since High quality streams would only play for a few minutes.
+
+[B]Version 0.7.0[/B]
+- Added new FilmOn icon. Thanks jokster!!
+
+[B]Version 0.6.9[/B]
+- Fixed bug with wrong plugin name
+- Cleaned up some more code
+
+[B]Version 0.6.8[/B]
+- Cleaned out left over Apollo code
+- Removed Live TV section in favor of one main section
+- Added FilmOn!
+
+[B]Version 0.6.7[/B]
+- Removed unused settings options (left over from Apollo)
+
+[B]Version 0.6.6[/B]
+- Updated so that streams load much faster for USTVnow Premium
+
+[B]Version 0.6.5[/B]
+- Removed Apollo TV/Movies since they are going to a paid service
+
+[B]Version 0.6.4[/B]
+- Even More updates for Apollo TV/Movies
+
+[B]Version 0.6.3[/B]
+- More updates for Apollo TV/Movies
+
+[B]Version 0.6.2[/B]
+- More updates for Apollo TV/Movies
+
+[B]Version 0.6.1[/B]
+- Updated to latest version of Apollo API
+- Set Apollo TV sections to show the show title when available
+- Updated error handling for Apollo TV
+
+[B]Version 0.6.0[/B]
+- Updated USTVnow Premium to fix some channels not working. 
+- Updated error handling for Apollo TV/Movies
+
+[B]Version 0.5.9[/B]
+- Fixed messageing typo
+
+[B]Version 0.5.8[/B]
+- Added better error handling for Apollo streams.
+- Removed the USTVnow Premium Stream Method options since USTVnow doesn't seem to be supporting rtmp anymore
+
+[B]Version 0.5.7[/B]
+- Added stream check for ArconaiTV. This should show a proper error message if the stream is not found.
+
+[B]Version 0.5.6[/B]
+- Updated to overcome changes with Apollo Live TV
+
+[B]Version 0.5.5[/B]
+-- Added notification to remind users to keep TV Time Private. This only shows up every 10th load of the main menu. This is sort of a test of something that I plan to add to all my other addons for TVADDONS branding.
+
+[B]Version 0.5.4[/B]
+-- Added settings option to set the view in the Movies sections. 50 (list) is default
+
+[B]Version 0.5.3[/B]
+- Added better error handling for Arconaitv
+- Set server timeouts to 10 seconds
+- Updated "offline" messaging
+
+[B]Version 0.5.2[/B]
+- Added the ability to remotely manage the menus. This way when things go down they can easily be turned off until fixed
+
+[B]Version 0.5.1[/B]
+- Removed Apollo service check. If Apollo goes down the lists will just be empty. 
+- Added arconaitv.me as a source for Live TV, TV Channels, and Movie Channels
+
+[B]Version 0.5.0[/B]
+- Code clean up
+
+[B]Version 0.4.9[/B]
+- Updated USTVnow token check
+
+[B]Version 0.4.8[/B]
+- Updated to newest Apollo API
+
+[B]Version 0.4.7[/B]
+- Simplified Apollo checks to speed things up a bit
+
+[B]Version 0.4.6[/B]
+- Added busy dialog for Apollo checks for those using slower devices
+
+[B]Version 0.4.5[/B]
+- Refined dynamic checks so if Apollo is down the USTVnow Premium section will be the default main page of the addon.
+
+[B]Version 0.4.4[/B]
+- Added dynamic checks so that if Apollo is down the Apollo sections will not show in the list.
+
+[B]Version 0.4.3[/B]
+- Added error handling so if any source is down an "offline" messages will show
+
+[B]Version 0.4.2[/B]
+- Updated default view mode for Movies section to my favorite one. :)
+
+[B]Version 0.4.1[/B]
+- Updated Movies section with Fanart
+- Added Movie details to movie sections (Runtime, rating, etc)
+
+[B]Version 0.4.0[/B]
+- Updated Apollo channel lists to pull directly from Apollo servers to ensure the channels are the latest.
+
+[B]Version 0.3.9[/B]
+- Apollo streams are back!!
+
+[B]Version 0.3.8[/B]
+- Removed Apollo TV/Movies. :( Hopefully I can find the source again.
+
+[B]Version 0.3.7[/B]
+- Updated graphics!! Thanks jokster!!!
+
+[B]Version 0.3.6[/B]
+- Updated the Refresh context menu option on the Sky TV, US TV, UK TV, and Misc. English TV to refetch the json server side.
+
+[B]Version 0.3.5[/B]
+- Added Movie Search feature (needs some tweaking)
+
+[B]Version 0.3.4[/B]
+- Moved Live TV to its own section
+- Added Movies section with tons of on demand movies
+- Added Settings option
+
+[B]Version 0.3.3[/B]
+- Set sort order for all sections to alphabetical
+- Added Sky TV section
+- Renamed USTVnow section to USTVnow Premium
+- No longer showing titles in Apollo TV sections since they are rarely correct
+
+[B]Version 0.3.2[/B]
+- Updated to use faster server
+
+[B]Version 0.3.1[/B]
+- Minor code tweaks
+
+[B]Version 0.3.0[/B]
+- Added Apollo TV streams Thanks tknorris for help in finding these! :)
+
+[B]Version 0.2.9[/B]
+- New channel logos. Thanks jokster!
+- Removed extra code that wasn't needed. :)
+
+[B]Version 0.2.8[/B]
+- Update icon and fanart. Thanks jokster!
+
+[B]Version 0.2.7[/B]
+- Updated icon to have a background looks better on many skins
+- Fixed setcontent issue with Estuary skin
+
+[B]Version 0.2.6[/B]
+- Updates to fix issues with source changes
+
+[B]Version 0.2.5[/B]
+- Added option to set streaming method
+- Default streaming method now uses playlist.m3u8 files
+- Alternate uses rtmp links
+
+[B]Version 0.2.4[/B]
+- Updates to fix issues with source changes
+
+[B]Version 0.2.3[/B]
+- Updates to messaging
+
+[B]Version 0.2.2[/B]
+- Minor code tweak
+
+[B]Version 0.2.1[/B]
+- Updated settings
+
+[B]Version 0.2.0[/B]
+- TV Time is now a Private addon
+
+[B]Version 0.1.9[/B]
+- removed checkbox and set to not mark streams as watched
+- some skins still show an empty checkbox
+
+[B]Version 0.1.8[/B]
+- code clean-up
+
+[B]Version 0.1.7[/B]
+- updated description
+- added forum and website links to addon.xml
+
+[B]Version 0.1.6[/B]
+- added code for force token/stream service to return fresh data
+
+[B]Version 0.1.5[/B]
+- renamed some files/functions
+- updated token/streams service
+
+[B]Version 0.1.4[/B]
+- updates to token/passkey creation
+
+[B]Version 0.1.3[/B]
+- updated fanart
+
+[B]Version 0.1.2[/B]
+- fixed bug with name/id change
+
+[B]Version 0.1.1[/B]
+- tweaked addon description
+
+[B]Version 0.1.0[/B]
+- Initial version
