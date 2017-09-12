@@ -1,3 +1,9 @@
+[B]Version 1.2.0[/B]
+- Fixed missing Travel Channel shows
+- ArconaiTV is back!
+- Removed Play Trailer from On Demand Movies
+- Code clean up
+
 [B]Version 1.1.9[/B]
 - Added PBS Kids to US TV Catchup section
 - Thanks to jokster for the graphics!
