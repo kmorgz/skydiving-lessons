@@ -1,3 +1,6 @@
+[B]Version 1.2.2[/B]
+- Fixed TVCatchup Section
+
 [B]Version 1.2.1[/B]
 - Updates for US TV Catchup
 
