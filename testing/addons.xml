@@ -1,11 +1,12 @@
 <addons>
-<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.2.4">
+<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.2.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
         <import addon="script.module.urlresolver" version="3.0.0"/>
         <import addon="script.module.requests" version="2.12.4" />
         <import addon="script.ftvguide.custom" version="0.2.0" optional="true" />
+        <import addon="script.module.tvtime.common" version="1.0.0"/>
     </requires>
     <extension library="main.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -39,6 +40,19 @@
 		<license>GPLv2</license>
         <website></website>
 		<email></email>
+	</extension>
+</addon>
+
+<addon id="script.module.tvtime.common" name="TV Time Common Libraries" version="1.0.0" provider-name="redacted">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Collection of modules used by TV Time</summary>
+		<description lang="en">Collection of modules used by TV Time</description>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	</extension>
 </addon>
 
