@@ -1,3 +1,10 @@
+[B]Version 1.2.8[/B]
+- Updated new sections with new graphics. Thanks jokster!!
+
+[B]Version 1.2.7[/B]
+- Added Unblocked Sports Section
+- Added Proxy Portal Section
+
 [B]Version 1.2.6[/B]
 - Added Sky Section
 - Added Greenl!e Section
