@@ -1,3 +1,6 @@
+[B]Version 1.3.0[/B]
+- Added Live News Section (mainly for CNN since it is not available in the other sources)
+
 [B]Version 1.2.9[/B]
 - Removed dependency on liveresolver
 
