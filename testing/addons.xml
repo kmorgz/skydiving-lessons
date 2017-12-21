@@ -17,7 +17,7 @@
     </extension>
 </addon>
 
-<addon id="script.ftvguide.custom" name="TV Time Guide" version="0.3.0" provider-name="redacted">
+<addon id="script.ftvguide.custom" name="TV Time Guide" version="0.3.1" provider-name="redacted">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
