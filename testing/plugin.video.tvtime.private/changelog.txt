@@ -1,3 +1,6 @@
+[B]Version 1.3.6[/B]
+- Fixed Unblocked Sports streams
+
 [B]Version 1.3.5[/B]
 - Cleaned up and organized settings
 
