@@ -1,3 +1,6 @@
+[B]Version 1.4.0[/B]
+- Fixed NBC section of US TV Catchup section
+
 [B]Version 1.3.9[/B]
 - Found way to get around Unblocked server being full :)
 
