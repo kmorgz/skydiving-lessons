@@ -1,3 +1,6 @@
+[B]Version 1.3.7[/B]
+- Fixed Unblocked Sports section
+
 [B]Version 1.3.6[/B]
 - Fixed Unblocked Sports streams
 
