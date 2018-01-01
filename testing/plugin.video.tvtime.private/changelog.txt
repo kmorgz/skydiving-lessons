@@ -1,3 +1,6 @@
+[B]Version 1.4.1[/B]
+- More fixes for Unblocked.lol streams
+
 [B]Version 1.4.0[/B]
 - Fixed NBC section of US TV Catchup section
 
