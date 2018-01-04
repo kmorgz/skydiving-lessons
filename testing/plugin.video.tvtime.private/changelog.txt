@@ -1,3 +1,6 @@
+[B]Version 1.4.5[/B]
+- Some tweaks to the new Movies On Demand section enhancements
+
 [B]Version 1.4.4[/B]
 - Enhanced Movies On Demand section with ability to grab additional stream sources if primary source is not working
 
