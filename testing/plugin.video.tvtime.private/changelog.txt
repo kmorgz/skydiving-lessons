@@ -1,3 +1,6 @@
+[B]Version 1.4.9[/B]
+- Version bumb
+
 [B]Version 1.4.8[/B]
 - Updated ArconaiTV to pull streams dynamically from TV Time server
 - Fixed some server connection issues
