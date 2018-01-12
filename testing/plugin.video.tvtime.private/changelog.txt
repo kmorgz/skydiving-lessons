@@ -1,3 +1,6 @@
+[B]Version 1.5.0[/B]
+- Fixed ArconaiTV!
+
 [B]Version 1.4.9[/B]
 - Version bump
 
