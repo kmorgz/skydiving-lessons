@@ -1,3 +1,7 @@
+[B]Version 1.5.4[/B]
+- Fixed US TV Catchup Travel Channel section
+- Fixed missing TVCatchup channel logos
+
 [B]Version 1.5.3[/B]
 - Fixed installation issues
 
