@@ -1,4 +1,9 @@
 --------------------------
+FTV Guide Custom - 0.3.3
+--------------------------
++ Added option to disable OSD
+
+--------------------------
 FTV Guide Custom - 0.3.2
 --------------------------
 + Minor server changes

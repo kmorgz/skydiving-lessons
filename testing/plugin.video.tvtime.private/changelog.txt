@@ -1,3 +1,6 @@
+[B]Version 1.5.5[/B]
+- Updated to support Paramount Network channel on USTVnow
+
 [B]Version 1.5.4[/B]
 - Fixed US TV Catchup Travel Channel section
 - Fixed missing TVCatchup channel logos
