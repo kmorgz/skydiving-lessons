@@ -1,3 +1,6 @@
+[B]Version 1.6.1[/B]
+- Fixed DIY Network, HGTV, Food Network, and Travel Channel in US TV Catchup section
+
 [B]Version 1.6.0[/B]
 - Fixed Unblocked Sports
 - Fixed Sky
