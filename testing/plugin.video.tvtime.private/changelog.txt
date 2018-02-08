@@ -1,3 +1,8 @@
+[B]Version 1.6.0[/B]
+- Fixed Unblocked Sports
+- Fixed Sky
+- Removed Greenl!e since source no longer working
+
 [B]Version 1.5.9[/B]
 - Fixed Cooking Channel
 - Fixed NBC
