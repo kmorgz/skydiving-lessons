@@ -1,3 +1,7 @@
+[B]Version 1.6.2[/B]
+- Added Charge! Channel
+- Added Comet Channel
+
 [B]Version 1.6.1[/B]
 - Fixed DIY Network, HGTV, Food Network, and Travel Channel in US TV Catchup section
 
