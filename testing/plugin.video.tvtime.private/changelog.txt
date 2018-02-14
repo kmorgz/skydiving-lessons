@@ -1,3 +1,6 @@
+[B]Version 1.6.3[/B]
+- Added TBD TV Channel
+
 [B]Version 1.6.2[/B]
 - Added Charge! Channel
 - Added Comet Channel
