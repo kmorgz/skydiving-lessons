@@ -1,3 +1,6 @@
+[B]Version 1.6.5[/B]
+- Fixes for CBSN and Newsy
+
 [B]Version 1.6.4[/B]
 - Added CBSN to Live News section
 - Added Newsy to Live News section
