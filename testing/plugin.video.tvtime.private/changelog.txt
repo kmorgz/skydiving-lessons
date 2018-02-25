@@ -1,3 +1,6 @@
+[B]Version 1.6.7[/B]
+- Fixed US TV Catchup channels
+
 [B]Version 1.6.6[/B]
 - Updated Sky News section to pull from the Sky News site
 
