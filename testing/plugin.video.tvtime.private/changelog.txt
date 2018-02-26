@@ -1,3 +1,6 @@
+[B]Version 1.6.9[/B]
+- Fixed Sky News channel in WatchBritishTV section
+
 [B]Version 1.6.8[/B]
 - Removed old code from sources that have died
 - Added new WatchBritishTV.com source
