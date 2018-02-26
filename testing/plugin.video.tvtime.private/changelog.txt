@@ -1,3 +1,7 @@
+[B]Version 1.6.8[/B]
+- Removed old code from sources that have died
+- Added new WatchBritishTV.com source
+
 [B]Version 1.6.7[/B]
 - Fixed US TV Catchup channels
 
