@@ -1,3 +1,6 @@
+[B]Version 1.7.1[/B]
+- Fixed ArconaiTV
+
 [B]Version 1.7.0[/B]
 - Updated CNN in Live News section to pull from non YouTube source
 - Updated Fox News in Live News section to pull from non YouTube source
