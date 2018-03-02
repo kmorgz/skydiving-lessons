@@ -1,3 +1,9 @@
+[B]Version 1.7.0[/B]
+- Updated CNN in Live News section to pull from non YouTube source
+- Updated Fox News in Live News section to pull from non YouTube source
+- Added MSNBC to Live News section
+- Removed settings to allow alternate YouTube IDs for Live News section
+
 [B]Version 1.6.9[/B]
 - Fixed Sky News channel in WatchBritishTV section
 
