@@ -1,3 +1,6 @@
+[B]Version 1.7.3[/B]
+- Fixed typo
+
 [B]Version 1.7.2[/B]
 - Added HSN. Thanks to jokster for the graphics!
 - Added Cheddar to Live News section
