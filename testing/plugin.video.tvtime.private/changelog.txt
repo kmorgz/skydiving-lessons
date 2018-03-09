@@ -1,3 +1,9 @@
+[B]Version 1.7.2[/B]
+- Added HSN. Thanks to jokster for the graphics!
+- Added Cheddar to Live News section
+- Added France 24 to Live News section
+- Added RT News to the Live News section
+
 [B]Version 1.7.1[/B]
 - Fixed ArconaiTV
 
