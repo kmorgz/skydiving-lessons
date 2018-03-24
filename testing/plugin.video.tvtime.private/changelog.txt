@@ -1,3 +1,7 @@
+[B]Version 1.7.6[/B]
+- Code clean up
+- Added Sky Sports Arena to Unblocked Sports section
+
 [B]Version 1.7.5[/B]
 - Added Newsmax TV to Live News section
 
