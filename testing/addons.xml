@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.7.7">
+<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.7.8">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.urlresolver" version="3.0.0"/>
@@ -12,7 +12,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Watch Major American Television Networks Live for Free!</summary>
-        <description>Watch all the best American television channels live and in high quality, completely unrestricted and free of charge! Also watch a ton of live TV from various sources as well as movies on demand!</description>
+        <description>Watch a ton of live TV from various sources as well as movies on demand!</description>
         <platform>all</platform>
     </extension>
 </addon>

@@ -1,3 +1,6 @@
+[B]Version 1.7.8[/B]
+- Added Easyview.eu channels
+
 [B]Version 1.7.7[/B]
 - Removed USTVnow since they have made changes that restrict things to much to have it availble. :(
 
