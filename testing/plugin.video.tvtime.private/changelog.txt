@@ -1,3 +1,6 @@
+[B]Version 1.7.7[/B]
+- Removed USTVnow since they have made changes that restrict things to much to have it availble. :(
+
 [B]Version 1.7.6[/B]
 - Code clean up
 - Added Sky Sports Arena to Unblocked Sports section
