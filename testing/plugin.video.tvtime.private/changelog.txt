@@ -1,3 +1,6 @@
+[B]Version 1.8.0[/B]
+- New Easyview section icon. Thanks jokster!!!
+
 [B]Version 1.7.9[/B]
 - Updated CNN, Fox News, and MSNBC sources in Live News section
 
