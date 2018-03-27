@@ -1,3 +1,6 @@
+[B]Version 1.8.1[/B]
+- Fixed CNN in Live News section
+
 [B]Version 1.8.0[/B]
 - New Easyview section icon. Thanks jokster!!!
 
