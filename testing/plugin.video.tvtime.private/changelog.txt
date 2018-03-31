@@ -1,3 +1,10 @@
+[B]Version 1.8.2[/B]
+- Added Streamlive.to section
+- Added C-SPAN and C-SPAN 2 to the Live News section
+- Added Tuff TV Thanks to jokster for the graphics!!!
+- Added Destination America Thanks to jokster for the graphics!!!
+- Fixed issue with CNN in Live News section
+
 [B]Version 1.8.1[/B]
 - Fixed CNN in Live News section
 
