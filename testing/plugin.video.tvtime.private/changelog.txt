@@ -1,3 +1,7 @@
+[B]Version 1.8.3[/B]
+- Code cleanup
+- Moved Charge!, Comet, TBC, HSN, QVC, Destination America, Tuff TV into a new "Live Channels" section
+
 [B]Version 1.8.2[/B]
 - Added Streamlive.to section
 - Added C-SPAN and C-SPAN 2 to the Live News section
