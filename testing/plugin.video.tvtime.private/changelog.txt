@@ -1,3 +1,6 @@
+[B]Version 1.8.5[/B]
+- Added Stadium channel to the Live Sports section
+
 [B]Version 1.8.4[/B]
 - Added new Live Sports section
 
