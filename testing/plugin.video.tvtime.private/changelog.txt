@@ -1,3 +1,7 @@
+[B]Version 1.8.6[/B]
+- Added The Country Network to the Live Channels section
+- Added Light TV to the Live Channels section
+
 [B]Version 1.8.5[/B]
 - Added Stadium channel to the Live Sports section
 
