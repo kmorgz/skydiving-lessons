@@ -1,3 +1,6 @@
+[B]Version 1.8.7[/B]
+- Fixed Streamlive.to section
+
 [B]Version 1.8.6[/B]
 - Added The Country Network to the Live Channels section
 - Added Light TV to the Live Channels section
