@@ -1,3 +1,6 @@
+[B]Version 1.8.9[/B]
+- Fixed missing logos Unblocked Sports section
+
 [B]Version 1.8.8[/B]
 - Fixed Streamlive.to section
 
