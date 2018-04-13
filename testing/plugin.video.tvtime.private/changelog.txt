@@ -1,3 +1,6 @@
+[B]Version 1.8.8[/B]
+- Fixed Streamlive.to section
+
 [B]Version 1.8.7[/B]
 - Fixed Streamlive.to section
 
