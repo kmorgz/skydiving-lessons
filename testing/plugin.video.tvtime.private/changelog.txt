@@ -1,3 +1,6 @@
+[B]Version 1.9.0[/B]
+- Added show information to StreamLive section
+
 [B]Version 1.8.9[/B]
 - Fixed missing logos Unblocked Sports section
 
