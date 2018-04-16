@@ -1,3 +1,8 @@
+[B]Version 1.9.2[/B]
+- Replaced StreamLive section with 123Stream section (same source, better organization)
+- Fixed issue with DIY Network in US TV Catchup section
+- Fixed issue with Search feature in On Demand Movies section
+
 [B]Version 1.9.1[/B]
 - Fixed CNN in Live News section
 - Fixed Fox News in Live News section
