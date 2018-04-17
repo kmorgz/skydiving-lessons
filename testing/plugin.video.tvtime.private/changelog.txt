@@ -1,3 +1,11 @@
+[B]Version 1.9.3[/B]
+- Added ABC News to Live News section
+- Added alternate CNN to Live News section
+- Added 2 alternate MSNBC to Live News section
+- Added Pac-12 channels to Live Sports section
+- Added MLB Network to Live Sports section
+- Added NFL Now to Live Sports section
+
 [B]Version 1.9.2[/B]
 - Replaced StreamLive section with 123Stream section (same source, better organization)
 - Fixed issue with DIY Network in US TV Catchup section
