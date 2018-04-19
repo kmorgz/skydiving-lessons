@@ -1,3 +1,6 @@
+[B]Version 1.9.6[/B]
+- Code refactor for 123Stream section
+
 [B]Version 1.9.5[/B]
 - Added 24/7 Channesl section
 
