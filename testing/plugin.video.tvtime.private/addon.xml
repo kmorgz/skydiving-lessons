@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.9.4">
+<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="1.9.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.urlresolver" version="3.0.0"/>
         <import addon="script.module.requests" version="2.12.4" />
         <import addon="script.module.tvtime.common" version="1.0.0"/>
         <import addon="plugin.video.youtube" version="5.5.1"/>
+        <import addon="plugin.video.f4mTester" version="2.7.2"/>
     </requires>
     <extension library="main.py" point="xbmc.python.pluginsource">
         <provides>video</provides>

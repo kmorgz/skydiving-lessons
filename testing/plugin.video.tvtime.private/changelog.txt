@@ -1,3 +1,6 @@
+[B]Version 1.9.5[/B]
+- Added 24/7 Channesl section
+
 [B]Version 1.9.4[/B]
 - Added ABC 7 to Live Channels section
 - Added Rev'n TV to Live Channels section
