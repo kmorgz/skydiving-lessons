@@ -1,3 +1,6 @@
+[B]Version 1.9.7[/B]
+- Added Fluxus TV section
+
 [B]Version 1.9.6[/B]
 - Code refactor for 123Stream section
 
