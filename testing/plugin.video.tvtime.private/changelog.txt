@@ -1,3 +1,8 @@
+[B]Version 2.0.3[/B]
+- Fixed CNN, FOX News, and, MSNBC in Live News section
+- Fixed Sky Cinema section
+- Fixed Unblocked Sports section
+
 [B]Version 2.0.2[/B]
 - Minor tweaks to AutoIPTV section
 
