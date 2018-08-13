@@ -1,3 +1,6 @@
+[B]Version 2.1.2[/B]
+- Updated Tubi TV icon (Thanks jokster!!!)
+
 [B]Version 2.1.1[/B]
 - Removed FilmOn section
 - Added Tubi TV section
