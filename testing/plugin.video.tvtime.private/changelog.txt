@@ -1,3 +1,6 @@
+[B]Version 2.1.0[/B]
+- Fixes for USTVcatchup section
+
 [B]Version 2.0.9[/B]
 - Added new icon for Stratus TV section (Thanks jokster!)
 
