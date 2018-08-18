@@ -1,3 +1,7 @@
+[B]Version 2.1.4[/B]
+- Added Spirit TV to Live Channels section
+- Added RadioU to Live Channels section
+
 [B]Version 2.1.3[/B]
 - Minor tweaks
 
