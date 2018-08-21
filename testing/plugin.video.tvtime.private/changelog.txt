@@ -1,3 +1,6 @@
+[B]Version 2.1.6[/B]
+- Added the CatholicTV Network to Live Channels section
+
 [B]Version 2.1.5[/B]
 - Added PBS Kids to Live Channels section
 
