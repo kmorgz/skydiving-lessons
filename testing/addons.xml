@@ -46,6 +46,21 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.biography.yt" name="Biography" provider-name="redacted" version="0.1.0">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.liveresolver"/>
+    </requires>
+    <extension library="main.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Biography</summary>
+        <description>Watch Full Episodes from the Biography Channel!</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="repository.redacted" name="redacted Private Add-on Repository" version="1.0.2" provider-name="redacted">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
