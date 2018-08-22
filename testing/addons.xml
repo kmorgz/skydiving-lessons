@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.1.7">
+<addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.1.8">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.urlresolver" version="3.0.0"/>
@@ -42,21 +42,6 @@
     <extension point="xbmc.addon.metadata">
         <summary>f4mTester</summary>
         <description></description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="plugin.video.biography.yt" name="Biography" provider-name="redacted" version="0.1.2">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0" />
-        <import addon="script.module.liveresolver"/>
-    </requires>
-    <extension library="main.py" point="xbmc.python.pluginsource">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Biography</summary>
-        <description>Watch Full Episodes from the Biography Channel!</description>
         <platform>all</platform>
     </extension>
 </addon>
