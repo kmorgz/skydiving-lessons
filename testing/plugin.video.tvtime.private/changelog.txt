@@ -1,3 +1,6 @@
+[B]Version 2.2.3[/B]
+- Fixed sorting for Fluxus TV, Lodge TV, and Stratus TV
+
 [B]Version 2.2.2[/B]
 - Fixed Fluxus TV
 
