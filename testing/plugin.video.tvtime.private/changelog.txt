@@ -1,3 +1,8 @@
+[B]Version 2.2.5[/B]
+- Added Fluxus Faith section (thanks jokster for the graphics)
+- Added Fluxus CCTV section (thanks jokster for the graphics)
+- Added Fluxus Lust section with access control via the TV Time access key (thanks jokster for the graphics)
+
 [B]Version 2.2.4[/B]
 - Fixed sorting for TVCatchup
 
