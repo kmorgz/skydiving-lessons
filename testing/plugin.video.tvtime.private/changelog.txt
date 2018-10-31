@@ -1,3 +1,8 @@
+[B]Version 2.2.6[/B]
+- Fixed broken sources throughout
+- Removed TVCatchup section 
+- Removed US TV Catchup section
+
 [B]Version 2.2.5[/B]
 - Added Fluxus Faith section (thanks jokster for the graphics)
 - Added Fluxus CCTV section (thanks jokster for the graphics)
