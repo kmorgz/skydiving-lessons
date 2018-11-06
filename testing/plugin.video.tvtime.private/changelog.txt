@@ -1,3 +1,6 @@
+[B]Version 2.2.9[/B]
+- Fixed Bloomberg
+
 [B]Version 2.2.8[/B]
 - Added more channels to Live News section
 
