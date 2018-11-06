@@ -1,3 +1,6 @@
+[B]Version 2.2.8[/B]
+- Added more channels to Live News section
+
 [B]Version 2.2.7[/B]
 - Updated to use shared module for some live channels
 

@@ -1,5 +1,5 @@
 <addons>
-    <addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.2.7">
+    <addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.2.8">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
             <import addon="script.module.urlresolver" version="3.0.0"/>
@@ -47,7 +47,7 @@
         </extension>
     </addon>
 
-    <addon id="repository.redacted" name="redacted Private Add-on Repository" version="1.0.3" provider-name="redacted">
+    <addon id="repository.redacted" name="redacted Private Add-on Repository" version="1.0.4" provider-name="redacted">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -60,13 +60,6 @@
                 <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
                 <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
                 <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
-            </dir>
-            <dir>
-                <info compressed="false">
-                    https://raw.githubusercontent.com/mhancoc7/kodi-addons/master/_repo/addons.xml
-                </info>
-                <checksum>https://raw.githubusercontent.com/mhancoc7/kodi-addons/master/_repo/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/mhancoc7/kodi-addons/master/_repo/</datadir>
             </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
