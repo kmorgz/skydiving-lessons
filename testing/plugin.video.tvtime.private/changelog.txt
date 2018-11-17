@@ -1,3 +1,7 @@
+[B]Version 2.3.2[/B]
+- Added CBS Sports HQ
+- Added ET Live
+
 [B]Version 2.3.1[/B]
 - Fixed Cheddar
 - Fixed some stability issues with Live Channels
