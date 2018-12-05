@@ -1,3 +1,6 @@
+[B]Version 2.3.4[/B]
+- Added NASA TV
+
 [B]Version 2.3.3[/B]
 - Added Celebrity Page Network
 - Removed TubiTV
