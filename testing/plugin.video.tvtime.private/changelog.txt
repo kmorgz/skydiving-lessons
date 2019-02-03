@@ -1,3 +1,10 @@
+[B]Version 2.3.5[/B]
+- Removed some broken streams
+- Fixed CBS News
+- Fixed ET Live
+- Fixed CBS Sports HQ
+- Performance Improvements
+
 [B]Version 2.3.4[/B]
 - Added NASA TV
 
