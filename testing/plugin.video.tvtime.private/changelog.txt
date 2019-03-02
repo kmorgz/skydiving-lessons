@@ -1,3 +1,9 @@
+[B]Version 2.3.6[/B]
+- Added Free Live TV (Extra) section
+- Merged Live Channels section with Free Live TV (Extra) section
+- Merged Live Sports section with Free Live TV (Extra) section
+- Merged Live News section with Free Live TV (Extra) section
+
 [B]Version 2.3.5[/B]
 - Removed some broken streams
 - Fixed CBS News
