@@ -1,3 +1,8 @@
+[B]Version 2.3.7[/B]
+- Merged the Extra channels into the Free Live TV channels
+- Tons of refactoring
+- Tons of code clean up
+
 [B]Version 2.3.6[/B]
 - Added Free Live TV (Extra) section
 - Merged Live Channels section with Free Live TV (Extra) section
