@@ -1,3 +1,6 @@
+[B]Version 2.3.8[/B]
+- Added new Xumo TV & Movies section
+
 [B]Version 2.3.7[/B]
 - Merged the Extra channels into the Free Live TV channels
 - Tons of refactoring
