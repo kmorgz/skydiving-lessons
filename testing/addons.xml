@@ -1,5 +1,5 @@
 <addons>
-    <addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.3.9">
+    <addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.4.0">
         <requires>
         	<import addon="xbmc.python" version="2.1.0" />
         	<import addon="script.module.requests" version="2.12.4" />
