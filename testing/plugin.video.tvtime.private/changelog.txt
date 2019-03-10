@@ -1,3 +1,6 @@
+[B]Version 2.4.1[/B]
+- Hopefully fixed bug in Android with new cache system
+
 [B]Version 2.4.0[/B]
 - Updated caching system for Xumo (TV & Movies) section
 - Fixed minor Fluxus IPTV issue
