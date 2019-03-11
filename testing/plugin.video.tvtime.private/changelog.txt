@@ -1,3 +1,6 @@
+[B]Version 2.4.4[/B]
+- Fixed issue with Lodge TV
+
 [B]Version 2.4.3[/B]
 - Tweaked Xumo cache setup
 
