@@ -1,3 +1,6 @@
+[B]Version 2.4.3[/B]
+- Tweaked Xumo cache setup
+
 [B]Version 2.4.2[/B]
 - Fixed Android cache bug
 
