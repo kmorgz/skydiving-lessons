@@ -1,3 +1,6 @@
+[B]Version 2.4.6[/B]
+- Updated ArconaiTV logos
+
 [B]Version 2.4.5[/B]
 - Updated Xumo (TV & Movies) section icon. Thanks jokster!!
 
