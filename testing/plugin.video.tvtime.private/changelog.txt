@@ -1,3 +1,6 @@
+[B]Version 2.4.7[/B]
+- Lots of refactoring
+
 [B]Version 2.4.6[/B]
 - Updated ArconaiTV logos
 
