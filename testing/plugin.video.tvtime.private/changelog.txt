@@ -1,3 +1,7 @@
+[B]Version 2.4.9[/B]
+- More code cleanup/refactoring
+- Cleaned up unused images
+
 [B]Version 2.4.8[/B]
 - More refactoring
 - Added tons of channels to the Free Live TV (Extra) section
