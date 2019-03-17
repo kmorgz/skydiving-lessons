@@ -1,3 +1,6 @@
+[B]Version 2.5.0[/B]
+- Added HLN to Free Live TV (Extra) section under News genre
+
 [B]Version 2.4.9[/B]
 - More code cleanup/refactoring
 - Cleaned up unused images
