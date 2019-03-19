@@ -1,3 +1,7 @@
+[B]Version 2.5.1[/B]
+- Refactoring Free Live TV (Extra) section
+- Added several UK channels to Free Live TV (Extra) section
+
 [B]Version 2.5.0[/B]
 - Added HLN to Free Live TV (Extra) section under News genre
 
