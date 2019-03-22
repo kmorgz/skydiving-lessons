@@ -1,3 +1,8 @@
+[B]Version 2.5.2[/B]
+- More refactoring
+- Removed Thomas the Train from YouTube Channels 
+- Added OpenLoad Direct Search feature
+
 [B]Version 2.5.1[/B]
 - Refactoring Free Live TV (Extra) section
 - Added several UK channels to Free Live TV (Extra) section
