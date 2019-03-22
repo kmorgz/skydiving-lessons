@@ -1,3 +1,6 @@
+[B]Version 2.5.3[/B]
+- Fixed Fluxus and Lodge TV formatting
+
 [B]Version 2.5.2[/B]
 - More refactoring
 - Removed Thomas the Train from YouTube Channels 
