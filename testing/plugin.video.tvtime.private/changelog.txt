@@ -1,232 +1,235 @@
-[B]Version 2.5.6[/B]
+[COLOR lightskyblue][B]Version 2.5.7[/B][/COLOR]
+- Added option to view changelog
+
+[COLOR lightskyblue][B]Version 2.5.6[/B][/COLOR]
 - Minor message update
 
-[B]Version 2.5.5[/B]
+[COLOR lightskyblue][B]Version 2.5.5[/B][/COLOR]
 - New graphics!! Thanks jokster!!!
 - Refactored some functions
 
-[B]Version 2.5.4[/B]
+[COLOR lightskyblue][B]Version 2.5.4[/B][/COLOR]
 - Fixed issue with ArconaiTV poster
 
-[B]Version 2.5.3[/B]
+[COLOR lightskyblue][B]Version 2.5.3[/B][/COLOR]
 - Fixed Fluxus and Lodge TV formatting
 
-[B]Version 2.5.2[/B]
+[COLOR lightskyblue][B]Version 2.5.2[/B][/COLOR]
 - More refactoring
 - Removed Thomas the Train from YouTube Channels 
 - Added OpenLoad Direct Search feature
 
-[B]Version 2.5.1[/B]
+[COLOR lightskyblue][B]Version 2.5.1[/B][/COLOR]
 - Refactoring Free Live TV (Extra) section
 - Added several UK channels to Free Live TV (Extra) section
 
-[B]Version 2.5.0[/B]
+[COLOR lightskyblue][B]Version 2.5.0[/B][/COLOR]
 - Added HLN to Free Live TV (Extra) section under News genre
 
-[B]Version 2.4.9[/B]
+[COLOR lightskyblue][B]Version 2.4.9[/B][/COLOR]
 - More code cleanup/refactoring
 - Cleaned up unused images
 
-[B]Version 2.4.8[/B]
+[COLOR lightskyblue][B]Version 2.4.8[/B][/COLOR]
 - More refactoring
 - Added tons of channels to the Free Live TV (Extra) section
 
-[B]Version 2.4.7[/B]
+[COLOR lightskyblue][B]Version 2.4.7[/B][/COLOR]
 - Lots of refactoring
 
-[B]Version 2.4.6[/B]
+[COLOR lightskyblue][B]Version 2.4.6[/B][/COLOR]
 - Updated ArconaiTV logos
 
-[B]Version 2.4.5[/B]
+[COLOR lightskyblue][B]Version 2.4.5[/B][/COLOR]
 - Updated Xumo (TV & Movies) section icon. Thanks jokster!!
 
-[B]Version 2.4.4[/B]
+[COLOR lightskyblue][B]Version 2.4.4[/B][/COLOR]
 - Fixed issue with Lodge TV
 
-[B]Version 2.4.3[/B]
+[COLOR lightskyblue][B]Version 2.4.3[/B][/COLOR]
 - Tweaked Xumo cache setup
 
-[B]Version 2.4.2[/B]
+[COLOR lightskyblue][B]Version 2.4.2[/B][/COLOR]
 - Fixed Android cache bug
 
-[B]Version 2.4.1[/B]
+[COLOR lightskyblue][B]Version 2.4.1[/B][/COLOR]
 - Hopefully fixed bug in Android with new cache system
 
-[B]Version 2.4.0[/B]
+[COLOR lightskyblue][B]Version 2.4.0[/B][/COLOR]
 - Updated caching system for Xumo (TV & Movies) section
 - Fixed minor Fluxus IPTV issue
 
-[B]Version 2.3.9[/B]
+[COLOR lightskyblue][B]Version 2.3.9[/B][/COLOR]
 - Fixed issue with several of the extra channels in the Free Live TV (Extra) section
 
-[B]Version 2.3.8[/B]
+[COLOR lightskyblue][B]Version 2.3.8[/B][/COLOR]
 - Added new Xumo TV & Movies section
 
-[B]Version 2.3.7[/B]
+[COLOR lightskyblue][B]Version 2.3.7[/B][/COLOR]
 - Merged the Extra channels into the Free Live TV channels
 - Tons of refactoring
 - Tons of code clean up
 
-[B]Version 2.3.6[/B]
+[COLOR lightskyblue][B]Version 2.3.6[/B][/COLOR]
 - Added Free Live TV (Extra) section
 - Merged Live Channels section with Free Live TV (Extra) section
 - Merged Live Sports section with Free Live TV (Extra) section
 - Merged Live News section with Free Live TV (Extra) section
 
-[B]Version 2.3.5[/B]
+[COLOR lightskyblue][B]Version 2.3.5[/B][/COLOR]
 - Removed some broken streams
 - Fixed CBS News
 - Fixed ET Live
 - Fixed CBS Sports HQ
 - Performance Improvements
 
-[B]Version 2.3.4[/B]
+[COLOR lightskyblue][B]Version 2.3.4[/B][/COLOR]
 - Added NASA TV
 
-[B]Version 2.3.3[/B]
+[COLOR lightskyblue][B]Version 2.3.3[/B][/COLOR]
 - Added Celebrity Page Network
 - Removed TubiTV
 
-[B]Version 2.3.2[/B]
+[COLOR lightskyblue][B]Version 2.3.2[/B][/COLOR]
 - Added CBS Sports HQ
 - Added ET Live
 
-[B]Version 2.3.1[/B]
+[COLOR lightskyblue][B]Version 2.3.1[/B][/COLOR]
 - Fixed Cheddar
 - Fixed some stability issues with Live Channels
 
-[B]Version 2.3.0[/B]
+[COLOR lightskyblue][B]Version 2.3.0[/B][/COLOR]
 - Fixed several Live Channels
 
-[B]Version 2.2.9[/B]
+[COLOR lightskyblue][B]Version 2.2.9[/B][/COLOR]
 - Fixed Bloomberg
 
-[B]Version 2.2.8[/B]
+[COLOR lightskyblue][B]Version 2.2.8[/B][/COLOR]
 - Added more channels to Live News section
 
-[B]Version 2.2.7[/B]
+[COLOR lightskyblue][B]Version 2.2.7[/B][/COLOR]
 - Updated to use shared module for some live channels
 
-[B]Version 2.2.6[/B]
+[COLOR lightskyblue][B]Version 2.2.6[/B][/COLOR]
 - Fixed broken sources throughout
 - Removed TVCatchup section 
 - Removed US TV Catchup section
 
-[B]Version 2.2.5[/B]
+[COLOR lightskyblue][B]Version 2.2.5[/B][/COLOR]
 - Added Fluxus Faith section (thanks jokster for the graphics)
 - Added Fluxus CCTV section (thanks jokster for the graphics)
 - Added Fluxus Lust section with access control via the TV Time access key (thanks jokster for the graphics)
 
-[B]Version 2.2.4[/B]
+[COLOR lightskyblue][B]Version 2.2.4[/B][/COLOR]
 - Fixed sorting for TVCatchup
 
-[B]Version 2.2.3[/B]
+[COLOR lightskyblue][B]Version 2.2.3[/B][/COLOR]
 - Fixed sorting for Fluxus TV, Lodge TV, and Stratus TV
 
-[B]Version 2.2.2[/B]
+[COLOR lightskyblue][B]Version 2.2.2[/B][/COLOR]
 - Fixed Fluxus TV
 
-[B]Version 2.2.1[/B]
+[COLOR lightskyblue][B]Version 2.2.1[/B][/COLOR]
 - Updated YouTube Channels section with new graphics. Thanks again jokster!!
 
-[B]Version 2.2.0[/B]
+[COLOR lightskyblue][B]Version 2.2.0[/B][/COLOR]
 - Added Maverick Movies to YouTube Channels section
 
-[B]Version 2.1.9[/B]
+[COLOR lightskyblue][B]Version 2.1.9[/B][/COLOR]
 - Removed dependency on liveresolver
 
-[B]Version 2.1.8[/B]
+[COLOR lightskyblue][B]Version 2.1.8[/B][/COLOR]
 - Added YouTube Channels
 
-[B]Version 2.1.7[/B]
+[COLOR lightskyblue][B]Version 2.1.7[/B][/COLOR]
 - Added Pokemon Fire section
 
-[B]Version 2.1.6[/B]
+[COLOR lightskyblue][B]Version 2.1.6[/B][/COLOR]
 - Added the CatholicTV Network to Live Channels section
 
-[B]Version 2.1.5[/B]
+[COLOR lightskyblue][B]Version 2.1.5[/B][/COLOR]
 - Added PBS Kids to Live Channels section
 
-[B]Version 2.1.4[/B]
+[COLOR lightskyblue][B]Version 2.1.4[/B][/COLOR]
 - Added Spirit TV to Live Channels section
 - Added RadioU to Live Channels section
 
-[B]Version 2.1.3[/B]
+[COLOR lightskyblue][B]Version 2.1.3[/B][/COLOR]
 - Minor tweaks
 
-[B]Version 2.1.2[/B]
+[COLOR lightskyblue][B]Version 2.1.2[/B][/COLOR]
 - Updated Tubi TV icon (Thanks jokster!!!)
 
-[B]Version 2.1.1[/B]
+[COLOR lightskyblue][B]Version 2.1.1[/B][/COLOR]
 - Removed FilmOn section
 - Added Tubi TV section
 
-[B]Version 2.1.0[/B]
+[COLOR lightskyblue][B]Version 2.1.0[/B][/COLOR]
 - Fixes for USTVcatchup section
 
-[B]Version 2.0.9[/B]
+[COLOR lightskyblue][B]Version 2.0.9[/B][/COLOR]
 - Added new icon for Stratus TV section (Thanks jokster!)
 
-[B]Version 2.0.8[/B]
+[COLOR lightskyblue][B]Version 2.0.8[/B][/COLOR]
 - Lots of code cleanup
 - Removed Ondemand Movie section (too unstable)
 - Added Lodge TV and Stratus TV sections (Thanks to jokster for the graphics)
 - Fixed US TV Catchup sections
 
-[B]Version 2.0.7[/B]
+[COLOR lightskyblue][B]Version 2.0.7[/B][/COLOR]
 - Removed non media links from AutoIPTV section
 
-[B]Version 2.0.6[/B]
+[COLOR lightskyblue][B]Version 2.0.6[/B][/COLOR]
 - Fixed Cheddar in Live News section
 - Fixed 123Stream section
 - Fixed Unblocked Sports section
 - Fixed Sky Cinema section
 
-[B]Version 2.0.5[/B]
+[COLOR lightskyblue][B]Version 2.0.5[/B][/COLOR]
 - Fixed Cheddar in Live News section
 - Added Cheddar Big News in Live News section
 
-[B]Version 2.0.4[/B]
+[COLOR lightskyblue][B]Version 2.0.4[/B][/COLOR]
 - General code clean-up
 - Fixed Sky Cinema section
 - Fixed Unblocked Sports section
 - Made Fluxus TV section more dynamic
 
-[B]Version 2.0.3[/B]
+[COLOR lightskyblue][B]Version 2.0.3[/B][/COLOR]
 - Fixed CNN, FOX News, and, MSNBC in Live News section
 - Fixed Sky Cinema section
 - Fixed Unblocked Sports section
 
-[B]Version 2.0.2[/B]
+[COLOR lightskyblue][B]Version 2.0.2[/B][/COLOR]
 - Minor tweaks to AutoIPTV section
 
-[B]Version 2.0.1[/B]
+[COLOR lightskyblue][B]Version 2.0.1[/B][/COLOR]
 - Fixed AutoIPTV section to pull in streams dynamically. 
 
-[B]Version 2.0.0[/B]
+[COLOR lightskyblue][B]Version 2.0.0[/B][/COLOR]
 - Added AutoIPTV section Thanks to jokster for the graphics!
 
-[B]Version 1.9.9[/B]
+[COLOR lightskyblue][B]Version 1.9.9[/B][/COLOR]
 - Fixed 123Stream section
 
-[B]Version 1.9.8[/B]
+[COLOR lightskyblue][B]Version 1.9.8[/B][/COLOR]
 - Fixed Sky section
 
-[B]Version 1.9.7[/B]
+[COLOR lightskyblue][B]Version 1.9.7[/B][/COLOR]
 - Added Fluxus TV section
 
-[B]Version 1.9.6[/B]
+[COLOR lightskyblue][B]Version 1.9.6[/B][/COLOR]
 - Code refactor for 123Stream section
 
-[B]Version 1.9.5[/B]
+[COLOR lightskyblue][B]Version 1.9.5[/B][/COLOR]
 - Added 24/7 Channesl section
 
-[B]Version 1.9.4[/B]
+[COLOR lightskyblue][B]Version 1.9.4[/B][/COLOR]
 - Added ABC 7 to Live Channels section
 - Added Rev'n TV to Live Channels section
 - Added Fuel TV to Live Channels section
 
-[B]Version 1.9.3[/B]
+[COLOR lightskyblue][B]Version 1.9.3[/B][/COLOR]
 - Added ABC News to Live News section
 - Added alternate CNN to Live News section
 - Added 2 alternate MSNBC to Live News section
@@ -234,633 +237,633 @@
 - Added MLB Network to Live Sports section
 - Added NFL Now to Live Sports section
 
-[B]Version 1.9.2[/B]
+[COLOR lightskyblue][B]Version 1.9.2[/B][/COLOR]
 - Replaced StreamLive section with 123Stream section (same source, better organization)
 - Fixed issue with DIY Network in US TV Catchup section
 - Fixed issue with Search feature in On Demand Movies section
 
-[B]Version 1.9.1[/B]
+[COLOR lightskyblue][B]Version 1.9.1[/B][/COLOR]
 - Fixed CNN in Live News section
 - Fixed Fox News in Live News section
 
-[B]Version 1.9.0[/B]
+[COLOR lightskyblue][B]Version 1.9.0[/B][/COLOR]
 - Added show information to StreamLive section
 
-[B]Version 1.8.9[/B]
+[COLOR lightskyblue][B]Version 1.8.9[/B][/COLOR]
 - Fixed missing logos Unblocked Sports section
 
-[B]Version 1.8.8[/B]
+[COLOR lightskyblue][B]Version 1.8.8[/B][/COLOR]
 - Fixed Streamlive.to section
 
-[B]Version 1.8.7[/B]
+[COLOR lightskyblue][B]Version 1.8.7[/B][/COLOR]
 - Fixed Streamlive.to section
 
-[B]Version 1.8.6[/B]
+[COLOR lightskyblue][B]Version 1.8.6[/B][/COLOR]
 - Added The Country Network to the Live Channels section
 - Added Light TV to the Live Channels section
 
-[B]Version 1.8.5[/B]
+[COLOR lightskyblue][B]Version 1.8.5[/B][/COLOR]
 - Added Stadium channel to the Live Sports section
 
-[B]Version 1.8.4[/B]
+[COLOR lightskyblue][B]Version 1.8.4[/B][/COLOR]
 - Added new Live Sports section
 
-[B]Version 1.8.3[/B]
+[COLOR lightskyblue][B]Version 1.8.3[/B][/COLOR]
 - Code cleanup
 - Moved Charge!, Comet, TBC, HSN, QVC, Destination America, Tuff TV into a new "Live Channels" section
 
-[B]Version 1.8.2[/B]
+[COLOR lightskyblue][B]Version 1.8.2[/B][/COLOR]
 - Added Streamlive.to section
 - Added C-SPAN and C-SPAN 2 to the Live News section
 - Added Tuff TV Thanks to jokster for the graphics!!!
 - Added Destination America Thanks to jokster for the graphics!!!
 - Fixed issue with CNN in Live News section
 
-[B]Version 1.8.1[/B]
+[COLOR lightskyblue][B]Version 1.8.1[/B][/COLOR]
 - Fixed CNN in Live News section
 
-[B]Version 1.8.0[/B]
+[COLOR lightskyblue][B]Version 1.8.0[/B][/COLOR]
 - New Easyview section icon. Thanks jokster!!!
 
-[B]Version 1.7.9[/B]
+[COLOR lightskyblue][B]Version 1.7.9[/B][/COLOR]
 - Updated CNN, Fox News, and MSNBC sources in Live News section
 
-[B]Version 1.7.8[/B]
+[COLOR lightskyblue][B]Version 1.7.8[/B][/COLOR]
 - Added Easyview.eu channels
 
-[B]Version 1.7.7[/B]
+[COLOR lightskyblue][B]Version 1.7.7[/B][/COLOR]
 - Removed USTVnow since they have made changes that restrict things to much to have it availble. :(
 
-[B]Version 1.7.6[/B]
+[COLOR lightskyblue][B]Version 1.7.6[/B][/COLOR]
 - Code clean up
 - Added Sky Sports Arena to Unblocked Sports section
 
-[B]Version 1.7.5[/B]
+[COLOR lightskyblue][B]Version 1.7.5[/B][/COLOR]
 - Added Newsmax TV to Live News section
 
-[B]Version 1.7.4[/B]
+[COLOR lightskyblue][B]Version 1.7.4[/B][/COLOR]
 - Minor fix for Live News section
 
-[B]Version 1.7.3[/B]
+[COLOR lightskyblue][B]Version 1.7.3[/B][/COLOR]
 - Fixed typo
 
-[B]Version 1.7.2[/B]
+[COLOR lightskyblue][B]Version 1.7.2[/B][/COLOR]
 - Added HSN. Thanks to jokster for the graphics!
 - Added Cheddar to Live News section
 - Added France 24 to Live News section
 - Added RT News to the Live News section
 
-[B]Version 1.7.1[/B]
+[COLOR lightskyblue][B]Version 1.7.1[/B][/COLOR]
 - Fixed ArconaiTV
 
-[B]Version 1.7.0[/B]
+[COLOR lightskyblue][B]Version 1.7.0[/B][/COLOR]
 - Updated CNN in Live News section to pull from non YouTube source
 - Updated Fox News in Live News section to pull from non YouTube source
 - Added MSNBC to Live News section
 - Removed settings to allow alternate YouTube IDs for Live News section
 
-[B]Version 1.6.9[/B]
+[COLOR lightskyblue][B]Version 1.6.9[/B][/COLOR]
 - Fixed Sky News channel in WatchBritishTV section
 
-[B]Version 1.6.8[/B]
+[COLOR lightskyblue][B]Version 1.6.8[/B][/COLOR]
 - Removed old code from sources that have died
 - Added new WatchBritishTV.com source
 
-[B]Version 1.6.7[/B]
+[COLOR lightskyblue][B]Version 1.6.7[/B][/COLOR]
 - Fixed US TV Catchup channels
 
-[B]Version 1.6.6[/B]
+[COLOR lightskyblue][B]Version 1.6.6[/B][/COLOR]
 - Updated Sky News section to pull from the Sky News site
 
-[B]Version 1.6.5[/B]
+[COLOR lightskyblue][B]Version 1.6.5[/B][/COLOR]
 - Fixes for CBSN and Newsy
 
-[B]Version 1.6.4[/B]
+[COLOR lightskyblue][B]Version 1.6.4[/B][/COLOR]
 - Added CBSN to Live News section
 - Added Newsy to Live News section
 
-[B]Version 1.6.3[/B]
+[COLOR lightskyblue][B]Version 1.6.3[/B][/COLOR]
 - Added TBD TV Channel
 
-[B]Version 1.6.2[/B]
+[COLOR lightskyblue][B]Version 1.6.2[/B][/COLOR]
 - Added Charge! Channel
 - Added Comet Channel
 
-[B]Version 1.6.1[/B]
+[COLOR lightskyblue][B]Version 1.6.1[/B][/COLOR]
 - Fixed DIY Network, HGTV, Food Network, and Travel Channel in US TV Catchup section
 
-[B]Version 1.6.0[/B]
+[COLOR lightskyblue][B]Version 1.6.0[/B][/COLOR]
 - Fixed Unblocked Sports
 - Fixed Sky
 - Removed Greenl!e since source no longer working
 
-[B]Version 1.5.9[/B]
+[COLOR lightskyblue][B]Version 1.5.9[/B][/COLOR]
 - Fixed Cooking Channel
 - Fixed NBC
 - Removed Freeform Movies since they are no longer free
 
-[B]Version 1.5.8[/B]
+[COLOR lightskyblue][B]Version 1.5.8[/B][/COLOR]
 - Minor tweaks
 
-[B]Version 1.5.7[/B]
+[COLOR lightskyblue][B]Version 1.5.7[/B][/COLOR]
 - Fixed issue with playlist.m3u8 showing in TV Guide instead of Channel title
 
-[B]Version 1.5.6[/B]
+[COLOR lightskyblue][B]Version 1.5.6[/B][/COLOR]
 - Updated Paramount Network logo
 
-[B]Version 1.5.5[/B]
+[COLOR lightskyblue][B]Version 1.5.5[/B][/COLOR]
 - Updated to support Paramount Network channel on USTVnow
 
-[B]Version 1.5.4[/B]
+[COLOR lightskyblue][B]Version 1.5.4[/B][/COLOR]
 - Fixed US TV Catchup Travel Channel section
 - Fixed missing TVCatchup channel logos
 
-[B]Version 1.5.3[/B]
+[COLOR lightskyblue][B]Version 1.5.3[/B][/COLOR]
 - Fixed installation issues
 
-[B]Version 1.5.2[/B]
+[COLOR lightskyblue][B]Version 1.5.2[/B][/COLOR]
 - Version bump
 
-[B]Version 1.5.1[/B]
+[COLOR lightskyblue][B]Version 1.5.1[/B][/COLOR]
 - Version bump
 
-[B]Version 1.5.0[/B]
+[COLOR lightskyblue][B]Version 1.5.0[/B][/COLOR]
 - Fixed ArconaiTV!
 
-[B]Version 1.4.9[/B]
+[COLOR lightskyblue][B]Version 1.4.9[/B][/COLOR]
 - Version bump
 
-[B]Version 1.4.8[/B]
+[COLOR lightskyblue][B]Version 1.4.8[/B][/COLOR]
 - Updated ArconaiTV to pull streams dynamically from TV Time server
 - Fixed some server connection issues
 - Fixed Proxy Portal due to website changes
 
-[B]Version 1.4.7[/B]
+[COLOR lightskyblue][B]Version 1.4.7[/B][/COLOR]
 - Minor server update
 
-[B]Version 1.4.6[/B]
+[COLOR lightskyblue][B]Version 1.4.6[/B][/COLOR]
 - New graphics for Direct Play. Thanks again jokster!!
 - A few minor tweaks to On Demand enhancements
 
-[B]Version 1.4.5[/B]
+[COLOR lightskyblue][B]Version 1.4.5[/B][/COLOR]
 - Some tweaks to the new Movies On Demand section enhancements
 
-[B]Version 1.4.4[/B]
+[COLOR lightskyblue][B]Version 1.4.4[/B][/COLOR]
 - Enhanced Movies On Demand section with ability to grab additional stream sources if primary source is not working
 
-[B]Version 1.4.3[/B]
+[COLOR lightskyblue][B]Version 1.4.3[/B][/COLOR]
 - Added "Direct Play" feature to On Demand Movies section
 
-[B]Version 1.4.2[/B]
+[COLOR lightskyblue][B]Version 1.4.2[/B][/COLOR]
 - Fixed dumb typo
 
-[B]Version 1.4.1[/B]
+[COLOR lightskyblue][B]Version 1.4.1[/B][/COLOR]
 - More fixes for Unblocked.lol streams
 
-[B]Version 1.4.0[/B]
+[COLOR lightskyblue][B]Version 1.4.0[/B][/COLOR]
 - Fixed NBC section of US TV Catchup section
 
-[B]Version 1.3.9[/B]
+[COLOR lightskyblue][B]Version 1.3.9[/B][/COLOR]
 - Found way to get around Unblocked server being full :)
 
-[B]Version 1.3.8[/B]
+[COLOR lightskyblue][B]Version 1.3.8[/B][/COLOR]
 - Added check for Unblocked server being full
 
-[B]Version 1.3.7[/B]
+[COLOR lightskyblue][B]Version 1.3.7[/B][/COLOR]
 - Fixed Unblocked Sports section
 
-[B]Version 1.3.6[/B]
+[COLOR lightskyblue][B]Version 1.3.6[/B][/COLOR]
 - Fixed Unblocked Sports streams
 
-[B]Version 1.3.5[/B]
+[COLOR lightskyblue][B]Version 1.3.5[/B][/COLOR]
 - Cleaned up and organized settings
 
-[B]Version 1.3.4[/B]
+[COLOR lightskyblue][B]Version 1.3.4[/B][/COLOR]
 - Added Setting to open TV Time Guide Settings
 
-[B]Version 1.3.3[/B]
+[COLOR lightskyblue][B]Version 1.3.3[/B][/COLOR]
 - Fixed dumb typo
 
-[B]Version 1.3.2[/B]
+[COLOR lightskyblue][B]Version 1.3.2[/B][/COLOR]
 - Removed unused code from YouTube resolver
 - Added option to open YouTube addon settings from TV Time settings to allow user to set the quality settings for Live News section
 
-[B]Version 1.3.1[/B]
+[COLOR lightskyblue][B]Version 1.3.1[/B][/COLOR]
 - Updated Live News section to allow for custom alternate sources
 
-[B]Version 1.3.0[/B]
+[COLOR lightskyblue][B]Version 1.3.0[/B][/COLOR]
 - Added Live News Section (mainly for CNN since it is not available in the other sources)
 
-[B]Version 1.2.9[/B]
+[COLOR lightskyblue][B]Version 1.2.9[/B][/COLOR]
 - Removed dependency on liveresolver
 
-[B]Version 1.2.8[/B]
+[COLOR lightskyblue][B]Version 1.2.8[/B][/COLOR]
 - Updated new sections with new graphics. Thanks jokster!!
 
-[B]Version 1.2.7[/B]
+[COLOR lightskyblue][B]Version 1.2.7[/B][/COLOR]
 - Added Unblocked Sports Section
 - Added Proxy Portal Section
 
-[B]Version 1.2.6[/B]
+[COLOR lightskyblue][B]Version 1.2.6[/B][/COLOR]
 - Added Sky Section
 - Added Greenl!e Section
 
-[B]Version 1.2.5[/B]
+[COLOR lightskyblue][B]Version 1.2.5[/B][/COLOR]
 - Fixed ArconaiTV Section
 
-[B]Version 1.2.4[/B]
+[COLOR lightskyblue][B]Version 1.2.4[/B][/COLOR]
 - Fixed US TV Catchup Section
 
-[B]Version 1.2.3[/B]
+[COLOR lightskyblue][B]Version 1.2.3[/B][/COLOR]
 - Fixed TVCatchup Section
 
-[B]Version 1.2.2[/B]
+[COLOR lightskyblue][B]Version 1.2.2[/B][/COLOR]
 - Fixed TVCatchup Section
 
-[B]Version 1.2.1[/B]
+[COLOR lightskyblue][B]Version 1.2.1[/B][/COLOR]
 - Updates for US TV Catchup
 
-[B]Version 1.2.0[/B]
+[COLOR lightskyblue][B]Version 1.2.0[/B][/COLOR]
 - Fixed missing Travel Channel shows
 - ArconaiTV is back!
 - Removed Play Trailer from On Demand Movies
 - Code clean up
 
-[B]Version 1.1.9[/B]
+[COLOR lightskyblue][B]Version 1.1.9[/B][/COLOR]
 - Added PBS Kids to US TV Catchup section
 - Thanks to jokster for the graphics!
 - Fixed the TVCatchup section
 
-[B]Version 1.1.8[/B]
+[COLOR lightskyblue][B]Version 1.1.8[/B][/COLOR]
 - Added NBC to US TV Catchup section
 - Thanks to jokster for the graphics!
 
-[B]Version 1.1.7[/B]
+[COLOR lightskyblue][B]Version 1.1.7[/B][/COLOR]
 - Added ABC to US TV Catchup section
 - Thanks to jokster for the graphics!
 
-[B]Version 1.1.6[/B]
+[COLOR lightskyblue][B]Version 1.1.6[/B][/COLOR]
 - Setup catchup channels to allow resume/watched
 - Setup movies section to allow resume/watched
 
-[B]Version 1.1.5[/B]
+[COLOR lightskyblue][B]Version 1.1.5[/B][/COLOR]
 - Removed uneeded code
 
-[B]Version 1.1.4[/B]
+[COLOR lightskyblue][B]Version 1.1.4[/B][/COLOR]
 - Fixed missing dependency
 
-[B]Version 1.1.3[/B]
+[COLOR lightskyblue][B]Version 1.1.3[/B][/COLOR]
 - Added MeTV section to US TV Catchup section
 - Thanks to jokster for the graphics!!
 - Code tweaks
 
-[B]Version 1.1.2[/B]
+[COLOR lightskyblue][B]Version 1.1.2[/B][/COLOR]
 - Added Freeform section to US TV Catchup section
 - Thanks to jokster for the graphics!!
 
-[B]Version 1.1.1[/B]
+[COLOR lightskyblue][B]Version 1.1.1[/B][/COLOR]
 - Cleaned up code
 - Fixed some broken streams in US TV Catchup section
 
-[B]Version 1.1.0[/B]
+[COLOR lightskyblue][B]Version 1.1.0[/B][/COLOR]
 - Added new Smithsonian Channel to US TV Catchup section
 - Moved SundanceTV section to the US TV Catchup section
 - Thanks again to jokster for the new graphics!
 
-[B]Version 1.0.9[/B]
+[COLOR lightskyblue][B]Version 1.0.9[/B][/COLOR]
 - Added new US TV Catchup section (includes DIY Network, Cooking Channel, Food Network, HGTV, and Travel Channel)
 - Added new SundanceTV section
 - Thanks to jokster for the new graphics!!
 
-[B]Version 1.0.8[/B]
+[COLOR lightskyblue][B]Version 1.0.8[/B][/COLOR]
 - Added code to prevent new sections from marking streams as watched
 
-[B]Version 1.0.7[/B]
+[COLOR lightskyblue][B]Version 1.0.7[/B][/COLOR]
 - Added Streamlive.to section (thanks to a dev that wants to remain anonymous)
 - Added TVCatchup Section (thanks to a dev that wants to remain anonymous)
 - Cleaned up some code
 
-[B]Version 1.0.6[/B]
+[COLOR lightskyblue][B]Version 1.0.6[/B][/COLOR]
 - Fixed On Demand Movies Section
 
-[B]Version 1.0.5[/B]
+[COLOR lightskyblue][B]Version 1.0.5[/B][/COLOR]
 - Fixes for SPMC
 
-[B]Version 1.0.4[/B]
+[COLOR lightskyblue][B]Version 1.0.4[/B][/COLOR]
 - Code tweaks
 
-[B]Version 1.0.3[/B]
+[COLOR lightskyblue][B]Version 1.0.3[/B][/COLOR]
 - Code tweaks
 
-[B]Version 1.0.2[/B]
+[COLOR lightskyblue][B]Version 1.0.2[/B][/COLOR]
 - Code tweaks
 
-[B]Version 1.0.1[/B]
+[COLOR lightskyblue][B]Version 1.0.1[/B][/COLOR]
 - Removed Apollo Sections/Options since they have locked things back down. :(
 - Added option in On Demand Movies section to choose between Vodlocker 'Main Server' or 'Alternate Server'
 - Added Play Trailer option to On Demand Movies section
 - Added support for playing TV Shows via Vodlocker using the Meta addon. Will release Meta player once bugs are worked out
 
-[B]Version 1.0.0[/B]
+[COLOR lightskyblue][B]Version 1.0.0[/B][/COLOR]
 - Added On Demand Movies View option. Just enter the numberic value for your favorite view
 
-[B]Version 0.9.9[/B]
+[COLOR lightskyblue][B]Version 0.9.9[/B][/COLOR]
 - New Apollo Group TV icon. Thanks jokster!!
 
-[B]Version 0.9.8[/B]
+[COLOR lightskyblue][B]Version 0.9.8[/B][/COLOR]
 - Fixed issue with showing proper quality for Apollo Group live tv streams
 
-[B]Version 0.9.7[/B]
+[COLOR lightskyblue][B]Version 0.9.7[/B][/COLOR]
 - Apollo TV is back! Over 150 new Live TV channels
 - On Demand Movies section now let's you choose to stream from Apollo TV or VodLocker API
 
-[B]Version 0.9.6[/B]
+[COLOR lightskyblue][B]Version 0.9.6[/B][/COLOR]
 - New Recently Added Movies icon. Thanks jokster!
 - Code clean up
 
-[B]Version 0.9.5[/B]
+[COLOR lightskyblue][B]Version 0.9.5[/B][/COLOR]
 - Fixed bug in Movies On Demand search feature
 
-[B]Version 0.9.4[/B]
+[COLOR lightskyblue][B]Version 0.9.4[/B][/COLOR]
 - Fixed minor Movies On Demand search bug
 
-[B]Version 0.9.3[/B]
+[COLOR lightskyblue][B]Version 0.9.3[/B][/COLOR]
 - Fixed additional bug when movie is not found.
 
-[B]Version 0.9.2[/B]
+[COLOR lightskyblue][B]Version 0.9.2[/B][/COLOR]
 - Fixed minor bug when movie is not found.
 
-[B]Version 0.9.1[/B]
+[COLOR lightskyblue][B]Version 0.9.1[/B][/COLOR]
 - Updated Movies On Demand section to use urlresolver. This increases the number of available streams significantly
 
-[B]Version 0.9.0[/B]
+[COLOR lightskyblue][B]Version 0.9.0[/B][/COLOR]
 - Added Recently Added Movies section to Movies On Demand section.
 
-[B]Version 0.8.9[/B]
+[COLOR lightskyblue][B]Version 0.8.9[/B][/COLOR]
 - Added new Movies On Demand section!
 
-[B]Version 0.8.8[/B]
+[COLOR lightskyblue][B]Version 0.8.8[/B][/COLOR]
 - Added missing FilmOn icon/logo
 
-[B]Version 0.8.7[/B]
+[COLOR lightskyblue][B]Version 0.8.7[/B][/COLOR]
 - Updated to use strings.po instead of strings.xml
 - Updated FilmOn section to only show the channels that are still free. This was only tested from the US so results may vary.
 
-[B]Version 0.8.6[/B]
+[COLOR lightskyblue][B]Version 0.8.6[/B][/COLOR]
 - Updated ArconaiTV icon to match their new logo. Thanks jokster!!
 
-[B]Version 0.8.5[/B]
+[COLOR lightskyblue][B]Version 0.8.5[/B][/COLOR]
 - Refactored how HD streams are pulled in for USTVnow
 
-[B]Version 0.8.4[/B]
+[COLOR lightskyblue][B]Version 0.8.4[/B][/COLOR]
 - Updated to support the new USTVnow channel lineup
 
-[B]Version 0.8.3[/B]
+[COLOR lightskyblue][B]Version 0.8.3[/B][/COLOR]
 - Removed Apollo TV Guide support
 
-[B]Version 0.8.2[/B]
+[COLOR lightskyblue][B]Version 0.8.2[/B][/COLOR]
 - Updated USTVnow API endpoint
 
-[B]Version 0.8.1[/B]
+[COLOR lightskyblue][B]Version 0.8.1[/B][/COLOR]
 - Fixed backspace issue after opening SALTS
 
-[B]Version 0.8.0[/B]
+[COLOR lightskyblue][B]Version 0.8.0[/B][/COLOR]
 - Bug fix in the Apollo logic
 
-[B]Version 0.7.9[/B]
+[COLOR lightskyblue][B]Version 0.7.9[/B][/COLOR]
 - Added "On Demand" section that opens SALTS if SALTS is installed
 - Added logic to only use Apollo xmltv file if Apollo Group is installed and a paid account
 - Added new On Demand and TV Guide icons. Thanks jokster!!
 
-[B]Version 0.7.8[/B]
+[COLOR lightskyblue][B]Version 0.7.8[/B][/COLOR]
 - Updated EPG menu item to show as TV Guide if Apollo Group addon is installed since the EPG will contain Apollo channels when Apollo Group addon is installed
 
-[B]Version 0.7.7[/B]
+[COLOR lightskyblue][B]Version 0.7.7[/B][/COLOR]
 - Set the TV Guide as an optional dependency
 - Only show the USTVnow (TV Guide) menu if the TV Guide is installed
 
-[B]Version 0.7.6[/B]
+[COLOR lightskyblue][B]Version 0.7.6[/B][/COLOR]
 - Added support for TV Time Guide!
 
-[B]Version 0.7.5[/B]
+[COLOR lightskyblue][B]Version 0.7.5[/B][/COLOR]
 - Fixed Carribean channels in FilmOn
 
-[B]Version 0.7.4[/B]
+[COLOR lightskyblue][B]Version 0.7.4[/B][/COLOR]
 - Code clean up
 
-[B]Version 0.7.3[/B]
+[COLOR lightskyblue][B]Version 0.7.3[/B][/COLOR]
 - Rearranged sections to be more intuitive
 - Added new ArconaiTV icon. Thanks jokster!!
 
-[B]Version 0.7.2[/B]
+[COLOR lightskyblue][B]Version 0.7.2[/B][/COLOR]
 - Cleaned up code.
 - Renamed 'US TV (ArconaiTV)' to ArconaiTV
 
-[B]Version 0.7.1[/B]
+[COLOR lightskyblue][B]Version 0.7.1[/B][/COLOR]
 - Removed option to set the FilmOn quality since High quality streams would only play for a few minutes.
 
-[B]Version 0.7.0[/B]
+[COLOR lightskyblue][B]Version 0.7.0[/B][/COLOR]
 - Added new FilmOn icon. Thanks jokster!!
 
-[B]Version 0.6.9[/B]
+[COLOR lightskyblue][B]Version 0.6.9[/B][/COLOR]
 - Fixed bug with wrong plugin name
 - Cleaned up some more code
 
-[B]Version 0.6.8[/B]
+[COLOR lightskyblue][B]Version 0.6.8[/B][/COLOR]
 - Cleaned out left over Apollo code
 - Removed Live TV section in favor of one main section
 - Added FilmOn!
 
-[B]Version 0.6.7[/B]
+[COLOR lightskyblue][B]Version 0.6.7[/B][/COLOR]
 - Removed unused settings options (left over from Apollo)
 
-[B]Version 0.6.6[/B]
+[COLOR lightskyblue][B]Version 0.6.6[/B][/COLOR]
 - Updated so that streams load much faster for USTVnow Premium
 
-[B]Version 0.6.5[/B]
+[COLOR lightskyblue][B]Version 0.6.5[/B][/COLOR]
 - Removed Apollo TV/Movies since they are going to a paid service
 
-[B]Version 0.6.4[/B]
+[COLOR lightskyblue][B]Version 0.6.4[/B][/COLOR]
 - Even More updates for Apollo TV/Movies
 
-[B]Version 0.6.3[/B]
+[COLOR lightskyblue][B]Version 0.6.3[/B][/COLOR]
 - More updates for Apollo TV/Movies
 
-[B]Version 0.6.2[/B]
+[COLOR lightskyblue][B]Version 0.6.2[/B][/COLOR]
 - More updates for Apollo TV/Movies
 
-[B]Version 0.6.1[/B]
+[COLOR lightskyblue][B]Version 0.6.1[/B][/COLOR]
 - Updated to latest version of Apollo API
 - Set Apollo TV sections to show the show title when available
 - Updated error handling for Apollo TV
 
-[B]Version 0.6.0[/B]
+[COLOR lightskyblue][B]Version 0.6.0[/B][/COLOR]
 - Updated USTVnow Premium to fix some channels not working. 
 - Updated error handling for Apollo TV/Movies
 
-[B]Version 0.5.9[/B]
+[COLOR lightskyblue][B]Version 0.5.9[/B][/COLOR]
 - Fixed messageing typo
 
-[B]Version 0.5.8[/B]
+[COLOR lightskyblue][B]Version 0.5.8[/B][/COLOR]
 - Added better error handling for Apollo streams.
 - Removed the USTVnow Premium Stream Method options since USTVnow doesn't seem to be supporting rtmp anymore
 
-[B]Version 0.5.7[/B]
+[COLOR lightskyblue][B]Version 0.5.7[/B][/COLOR]
 - Added stream check for ArconaiTV. This should show a proper error message if the stream is not found.
 
-[B]Version 0.5.6[/B]
+[COLOR lightskyblue][B]Version 0.5.6[/B][/COLOR]
 - Updated to overcome changes with Apollo Live TV
 
-[B]Version 0.5.5[/B]
+[COLOR lightskyblue][B]Version 0.5.5[/B][/COLOR]
 -- Added notification to remind users to keep TV Time Private. This only shows up every 10th load of the main menu. This is sort of a test of something that I plan to add to all my other addons for TVADDONS branding.
 
-[B]Version 0.5.4[/B]
+[COLOR lightskyblue][B]Version 0.5.4[/B][/COLOR]
 -- Added settings option to set the view in the Movies sections. 50 (list) is default
 
-[B]Version 0.5.3[/B]
+[COLOR lightskyblue][B]Version 0.5.3[/B][/COLOR]
 - Added better error handling for Arconaitv
 - Set server timeouts to 10 seconds
 - Updated "offline" messaging
 
-[B]Version 0.5.2[/B]
+[COLOR lightskyblue][B]Version 0.5.2[/B][/COLOR]
 - Added the ability to remotely manage the menus. This way when things go down they can easily be turned off until fixed
 
-[B]Version 0.5.1[/B]
+[COLOR lightskyblue][B]Version 0.5.1[/B][/COLOR]
 - Removed Apollo service check. If Apollo goes down the lists will just be empty. 
 - Added arconaitv.me as a source for Live TV, TV Channels, and Movie Channels
 
-[B]Version 0.5.0[/B]
+[COLOR lightskyblue][B]Version 0.5.0[/B][/COLOR]
 - Code clean up
 
-[B]Version 0.4.9[/B]
+[COLOR lightskyblue][B]Version 0.4.9[/B][/COLOR]
 - Updated USTVnow token check
 
-[B]Version 0.4.8[/B]
+[COLOR lightskyblue][B]Version 0.4.8[/B][/COLOR]
 - Updated to newest Apollo API
 
-[B]Version 0.4.7[/B]
+[COLOR lightskyblue][B]Version 0.4.7[/B][/COLOR]
 - Simplified Apollo checks to speed things up a bit
 
-[B]Version 0.4.6[/B]
+[COLOR lightskyblue][B]Version 0.4.6[/B][/COLOR]
 - Added busy dialog for Apollo checks for those using slower devices
 
-[B]Version 0.4.5[/B]
+[COLOR lightskyblue][B]Version 0.4.5[/B][/COLOR]
 - Refined dynamic checks so if Apollo is down the USTVnow Premium section will be the default main page of the addon.
 
-[B]Version 0.4.4[/B]
+[COLOR lightskyblue][B]Version 0.4.4[/B][/COLOR]
 - Added dynamic checks so that if Apollo is down the Apollo sections will not show in the list.
 
-[B]Version 0.4.3[/B]
+[COLOR lightskyblue][B]Version 0.4.3[/B][/COLOR]
 - Added error handling so if any source is down an "offline" messages will show
 
-[B]Version 0.4.2[/B]
+[COLOR lightskyblue][B]Version 0.4.2[/B][/COLOR]
 - Updated default view mode for Movies section to my favorite one. :)
 
-[B]Version 0.4.1[/B]
+[COLOR lightskyblue][B]Version 0.4.1[/B][/COLOR]
 - Updated Movies section with Fanart
 - Added Movie details to movie sections (Runtime, rating, etc)
 
-[B]Version 0.4.0[/B]
+[COLOR lightskyblue][B]Version 0.4.0[/B][/COLOR]
 - Updated Apollo channel lists to pull directly from Apollo servers to ensure the channels are the latest.
 
-[B]Version 0.3.9[/B]
+[COLOR lightskyblue][B]Version 0.3.9[/B][/COLOR]
 - Apollo streams are back!!
 
-[B]Version 0.3.8[/B]
+[COLOR lightskyblue][B]Version 0.3.8[/B][/COLOR]
 - Removed Apollo TV/Movies. :( Hopefully I can find the source again.
 
-[B]Version 0.3.7[/B]
+[COLOR lightskyblue][B]Version 0.3.7[/B][/COLOR]
 - Updated graphics!! Thanks jokster!!!
 
-[B]Version 0.3.6[/B]
+[COLOR lightskyblue][B]Version 0.3.6[/B][/COLOR]
 - Updated the Refresh context menu option on the Sky TV, US TV, UK TV, and Misc. English TV to refetch the json server side.
 
-[B]Version 0.3.5[/B]
+[COLOR lightskyblue][B]Version 0.3.5[/B][/COLOR]
 - Added Movie Search feature (needs some tweaking)
 
-[B]Version 0.3.4[/B]
+[COLOR lightskyblue][B]Version 0.3.4[/B][/COLOR]
 - Moved Live TV to its own section
 - Added Movies section with tons of on demand movies
 - Added Settings option
 
-[B]Version 0.3.3[/B]
+[COLOR lightskyblue][B]Version 0.3.3[/B][/COLOR]
 - Set sort order for all sections to alphabetical
 - Added Sky TV section
 - Renamed USTVnow section to USTVnow Premium
 - No longer showing titles in Apollo TV sections since they are rarely correct
 
-[B]Version 0.3.2[/B]
+[COLOR lightskyblue][B]Version 0.3.2[/B][/COLOR]
 - Updated to use faster server
 
-[B]Version 0.3.1[/B]
+[COLOR lightskyblue][B]Version 0.3.1[/B][/COLOR]
 - Minor code tweaks
 
-[B]Version 0.3.0[/B]
+[COLOR lightskyblue][B]Version 0.3.0[/B][/COLOR]
 - Added Apollo TV streams Thanks tknorris for help in finding these! :)
 
-[B]Version 0.2.9[/B]
+[COLOR lightskyblue][B]Version 0.2.9[/B][/COLOR]
 - New channel logos. Thanks jokster!
 - Removed extra code that wasn't needed. :)
 
-[B]Version 0.2.8[/B]
+[COLOR lightskyblue][B]Version 0.2.8[/B][/COLOR]
 - Update icon and fanart. Thanks jokster!
 
-[B]Version 0.2.7[/B]
+[COLOR lightskyblue][B]Version 0.2.7[/B][/COLOR]
 - Updated icon to have a background looks better on many skins
 - Fixed setcontent issue with Estuary skin
 
-[B]Version 0.2.6[/B]
+[COLOR lightskyblue][B]Version 0.2.6[/B][/COLOR]
 - Updates to fix issues with source changes
 
-[B]Version 0.2.5[/B]
+[COLOR lightskyblue][B]Version 0.2.5[/B][/COLOR]
 - Added option to set streaming method
 - Default streaming method now uses playlist.m3u8 files
 - Alternate uses rtmp links
 
-[B]Version 0.2.4[/B]
+[COLOR lightskyblue][B]Version 0.2.4[/B][/COLOR]
 - Updates to fix issues with source changes
 
-[B]Version 0.2.3[/B]
+[COLOR lightskyblue][B]Version 0.2.3[/B][/COLOR]
 - Updates to messaging
 
-[B]Version 0.2.2[/B]
+[COLOR lightskyblue][B]Version 0.2.2[/B][/COLOR]
 - Minor code tweak
 
-[B]Version 0.2.1[/B]
+[COLOR lightskyblue][B]Version 0.2.1[/B][/COLOR]
 - Updated settings
 
-[B]Version 0.2.0[/B]
+[COLOR lightskyblue][B]Version 0.2.0[/B][/COLOR]
 - TV Time is now a Private addon
 
-[B]Version 0.1.9[/B]
+[COLOR lightskyblue][B]Version 0.1.9[/B][/COLOR]
 - removed checkbox and set to not mark streams as watched
 - some skins still show an empty checkbox
 
-[B]Version 0.1.8[/B]
+[COLOR lightskyblue][B]Version 0.1.8[/B][/COLOR]
 - code clean-up
 
-[B]Version 0.1.7[/B]
+[COLOR lightskyblue][B]Version 0.1.7[/B][/COLOR]
 - updated description
 - added forum and website links to addon.xml
 
-[B]Version 0.1.6[/B]
+[COLOR lightskyblue][B]Version 0.1.6[/B][/COLOR]
 - added code for force token/stream service to return fresh data
 
-[B]Version 0.1.5[/B]
+[COLOR lightskyblue][B]Version 0.1.5[/B][/COLOR]
 - renamed some files/functions
 - updated token/streams service
 
-[B]Version 0.1.4[/B]
+[COLOR lightskyblue][B]Version 0.1.4[/B][/COLOR]
 - updates to token/passkey creation
 
-[B]Version 0.1.3[/B]
+[COLOR lightskyblue][B]Version 0.1.3[/B][/COLOR]
 - updated fanart
 
-[B]Version 0.1.2[/B]
+[COLOR lightskyblue][B]Version 0.1.2[/B][/COLOR]
 - fixed bug with name/id change
 
-[B]Version 0.1.1[/B]
+[COLOR lightskyblue][B]Version 0.1.1[/B][/COLOR]
 - tweaked addon description
 
-[B]Version 0.1.0[/B]
+[COLOR lightskyblue][B]Version 0.1.0[/B][/COLOR]
 - Initial version
