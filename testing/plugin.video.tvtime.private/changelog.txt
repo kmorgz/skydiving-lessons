@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.6.3[/B][/COLOR]
+- Fixed issue with Xumo section not marking movies as watched
+
 [COLOR lightskyblue][B]Version 2.6.2[/B][/COLOR]
 - Updated the OpenLoad Direct Search feature to the OpenLoad Movies section
 
