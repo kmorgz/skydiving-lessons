@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.6.5[/B][/COLOR]
+- Fixed issue with illegal characters in image file name. Hopefully fixes issues on Windows
+
 [COLOR lightskyblue][B]Version 2.6.4[/B][/COLOR]
 - Added better error handling to OpenLoad Movies section
 
