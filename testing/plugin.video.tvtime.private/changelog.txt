@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.6.0[/B][/COLOR]
+- Fixed issue with Fluxus TV section listings
+
 [COLOR lightskyblue][B]Version 2.5.9[/B][/COLOR]
 - Minor UI Tweaks
 
