@@ -1,3 +1,7 @@
+[COLOR lightskyblue][B]Version 2.6.7[/B][/COLOR]
+- Updated channel logos
+- Updated OpenLoad to show notification that TV Time is looking for an OpenLoad movie
+
 [COLOR lightskyblue][B]Version 2.6.6[/B][/COLOR]
 - More fixes for issues with filenames in Windows
 
