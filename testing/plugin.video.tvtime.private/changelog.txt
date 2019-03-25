@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.6.8[/B][/COLOR]
+- Updated channel logos
+
 [COLOR lightskyblue][B]Version 2.6.7[/B][/COLOR]
 - Updated channel logos
 - Updated OpenLoad to show notification that TV Time is looking for an OpenLoad movie
