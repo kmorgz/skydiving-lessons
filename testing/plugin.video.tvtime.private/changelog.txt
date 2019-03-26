@@ -1,3 +1,9 @@
+[COLOR lightskyblue][B]Version 2.6.9[/B][/COLOR]
+- Added notifications to show that channel lists are building in Free Live TV (Extra) section
+- Added ESPN to Free Live TV (Extra) section
+- Added ESPN2 to Free Live TV (Extra) section
+- Added Turner Classic Movies to Free Live TV (Extra) section
+
 [COLOR lightskyblue][B]Version 2.6.8[/B][/COLOR]
 - Updated channel logos
 
