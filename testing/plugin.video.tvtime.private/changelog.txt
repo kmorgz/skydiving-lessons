@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.7.0[/B][/COLOR]
+- Fixed missing notification icon
+
 [COLOR lightskyblue][B]Version 2.6.9[/B][/COLOR]
 - Added notifications to show that channel lists are building in Free Live TV (Extra) section
 - Added ESPN to Free Live TV (Extra) section
