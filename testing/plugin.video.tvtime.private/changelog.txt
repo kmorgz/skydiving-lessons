@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.7.4[/B][/COLOR]
+- Added new Animal TV icon. Thanks jokster!!!
+
 [COLOR lightskyblue][B]Version 2.7.3[/B][/COLOR]
 - Fixed issue with special characters in source url
 - Released Animal TV to everyone
