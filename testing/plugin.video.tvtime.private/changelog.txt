@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.7.2[/B][/COLOR]
+- Added Animal TV. It is not availalble to everyone yet. 
+
 [COLOR lightskyblue][B]Version 2.7.1[/B][/COLOR]
 - Minor function refactor
 
