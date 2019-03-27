@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.7.1[/B][/COLOR]
+- Minor function refactor
+
 [COLOR lightskyblue][B]Version 2.7.0[/B][/COLOR]
 - Fixed missing notification icon
 
