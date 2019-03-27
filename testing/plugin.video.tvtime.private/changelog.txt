@@ -1,3 +1,7 @@
+[COLOR lightskyblue][B]Version 2.7.3[/B][/COLOR]
+- Fixed issue with special characters in source url
+- Released Animal TV to everyone
+
 [COLOR lightskyblue][B]Version 2.7.2[/B][/COLOR]
 - Added Animal TV. It is not availalble to everyone yet. 
 
