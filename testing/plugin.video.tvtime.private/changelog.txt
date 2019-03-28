@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.7.6[/B][/COLOR]
+- Fixed encoding issue
+
 [COLOR lightskyblue][B]Version 2.7.5[/B][/COLOR]
 - Removed uneeded code
 - Updated Free Live TV (Extra) section loading notification
