@@ -1,3 +1,7 @@
+[COLOR lightskyblue][B]Version 2.7.5[/B][/COLOR]
+- Removed uneeded code
+- Updated Free Live TV (Extra) section loading notification
+
 [COLOR lightskyblue][B]Version 2.7.4[/B][/COLOR]
 - Added new Animal TV icon. Thanks jokster!!!
 
