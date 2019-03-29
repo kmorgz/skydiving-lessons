@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.7.7[/B][/COLOR]
+- Updated TV Time service connection
+
 [COLOR lightskyblue][B]Version 2.7.6[/B][/COLOR]
 - Fixed encoding issue
 
