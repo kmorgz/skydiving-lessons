@@ -1,3 +1,8 @@
+[COLOR lightskyblue][B]Version 2.7.9[/B][/COLOR]
+- Added link to URLResolver Settings from Settings menu
+- Tested OpenLoad Movies using RD in URLResolver
+- If RD is setup and you get an pop for pairing just click cancel.
+
 [COLOR lightskyblue][B]Version 2.7.8[/B][/COLOR]
 - Refactored Free Live TV (Extra) functions to be more dynamic
 
