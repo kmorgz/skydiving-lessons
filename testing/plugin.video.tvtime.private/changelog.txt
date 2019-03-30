@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.8.0[/B][/COLOR]
+- Refactored to remove bad encode method
+
 [COLOR lightskyblue][B]Version 2.7.9[/B][/COLOR]
 - Added link to URLResolver Settings from Settings menu
 - Tested OpenLoad Movies using RD in URLResolver
