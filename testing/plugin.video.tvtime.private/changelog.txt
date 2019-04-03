@@ -1,3 +1,7 @@
+[COLOR lightskyblue][B]Version 2.8.1[/B][/COLOR]
+- Code clean up
+- Changed source for some of the Free Live TV (Extra) channels
+
 [COLOR lightskyblue][B]Version 2.8.0[/B][/COLOR]
 - Refactored to remove bad encode method
 
