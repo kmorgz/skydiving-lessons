@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.8.3[/B][/COLOR]
+- Replaced some dependencies
+
 [COLOR lightskyblue][B]Version 2.8.2[/B][/COLOR]
 - Started adding support for Python 3
 

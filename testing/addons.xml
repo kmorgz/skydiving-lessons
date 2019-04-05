@@ -1,5 +1,5 @@
 <addons>
-    <addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.8.2">
+    <addon id="plugin.video.tvtime.private" name="TV Time" provider-name="redacted" version="2.8.3">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
             <import addon="script.module.requests" version="2.12.4"/>
@@ -18,16 +18,19 @@
         </extension>
     </addon>
 
-    <addon id="script.module.tvtime.common" name="TV Time Common Libraries" version="1.0.0" provider-name="redacted">
+    <addon id="script.module.jsbeautifier" name="jsbeautifier" version="1.8.8" provider-name="jsergio">
         <requires>
-            <import addon="xbmc.python" version="2.1.0"/>
+            <import addon="xbmc.python" version="2.14.0"/>
+            <import addon="script.module.six" version="1.6.1"/>
         </requires>
         <extension point="xbmc.python.module" library="lib"/>
         <extension point="xbmc.addon.metadata">
+            <summary>Written by Einar Lielmanis, maintained and evolved by Liam Newman.</summary>
+            <description>Beautify, unpack or deobfuscate JavaScript. Handles popular online obfuscators.</description>
             <platform>all</platform>
-            <summary lang="en">Collection of modules used by TV Time</summary>
-            <description lang="en">Collection of modules used by TV Time</description>
-            <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+            <license>MIT</license>
+            <source>https://pypi.org/project/jsbeautifier/</source>
+            <website>https://beautifier.io/</website>
         </extension>
     </addon>
 
@@ -46,9 +49,9 @@
                 <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
             </dir>
             <dir>
-            	<info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
-            	<checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
-            	<datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
+                <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
+                <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
             </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
