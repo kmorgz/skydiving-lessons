@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.8.6[/B][/COLOR]
+- Fixed issues with ArconaiTV Movies
+
 [COLOR lightskyblue][B]Version 2.8.5[/B][/COLOR]
 - More updates for Python 3 support
 
