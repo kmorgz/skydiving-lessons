@@ -1,3 +1,8 @@
+[COLOR lightskyblue][B]Version 2.8.9[/B][/COLOR]
+- Added a GEO Location check so that sections that only work in the US are hidden for those outside the US.
+- Added option to Reset GEO Location in case a user begins using a VPN before the previous GEO Location cache expires.
+- Added a Help page to the Settings menu
+
 [COLOR lightskyblue][B]Version 2.8.8[/B][/COLOR]
 - Refactored Tubi TV
 
