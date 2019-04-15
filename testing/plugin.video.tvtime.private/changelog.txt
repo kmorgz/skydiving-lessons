@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.9.1[/B][/COLOR]
+- Fixed issue with Fluxus Cinema. Many streams are still broken, but the code is not fixed. Hopefully they will update these soon.
+
 [COLOR lightskyblue][B]Version 2.9.0[/B][/COLOR]
 - Refactored and cleaned up some code
 - Fixed Docurama in Xumo section
