@@ -1,3 +1,9 @@
+[COLOR lightskyblue][B]Version 2.9.5[/B][/COLOR]
+- Added HBO to Free Live TV (Extra) section
+- Added Showtime to Free Live TV (Extra) section
+- Added TNT to Free Live TV (Extra) section
+- Added Turner Classic Movies to Free Live TV (Extra) section
+
 [COLOR lightskyblue][B]Version 2.9.4[/B][/COLOR]
 - Cleaned up from new ci/cd process
 
