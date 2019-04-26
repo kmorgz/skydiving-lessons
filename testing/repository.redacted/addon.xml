@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.redacted" name="redacted Private Add-on Repository" version="1.0.7" provider-name="redacted">
+<?xml version='1.0' encoding='utf-8'?>
+<addon id="repository.redacted" name="redacted Private Add-on Repository" provider-name="redacted" version="1.0.7">
     <requires>
-        <import addon="xbmc.addon" version="12.0.0"/>
+        <import addon="xbmc.addon" version="12.0.0" />
     </requires>
-    <extension point="xbmc.addon.repository" name="redacted Private Add-on Repository">
+    <extension name="redacted Private Add-on Repository" point="xbmc.addon.repository">
         <info compressed="false">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml</info>
         <checksum>https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/</datadir>
@@ -20,4 +20,3 @@
         <platform>all</platform>
     </extension>
 </addon>
-
