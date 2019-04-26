@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.9.6[/B][/COLOR]
+- Added Search to Tubi TV section
+
 [COLOR lightskyblue][B]Version 2.9.5[/B][/COLOR]
 - Added HBO to Free Live TV (Extra) section
 - Added Showtime to Free Live TV (Extra) section
