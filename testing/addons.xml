@@ -51,7 +51,7 @@
         <description>Private Add-on Development</description>
         <platform>all</platform>
     </extension>
-</addon><addon id="script.module.urlresolver" name="URLResolver" provider-name="tvaddons" version="5.0.34">
+</addon><addon id="script.module.urlresolver" name="URLResolver" provider-name="tvaddons" version="5.0.35">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
