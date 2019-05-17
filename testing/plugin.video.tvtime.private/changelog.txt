@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 2.9.8[/B][/COLOR]
+- Fixed exception issue
+
 [COLOR lightskyblue][B]Version 2.9.7[/B][/COLOR]
 - Fixed issue with geo location being blocked by ad-blocking services. It will fallback to US if it is blocked
 
