@@ -1,3 +1,12 @@
+[COLOR lightskyblue][B]Version 3.0.0[/B][/COLOR]
+- Fixed issues with Fluxus IPTV
+- Fixed issues with Fluxus Faith
+- Fixed issues with Fluxus Lust
+- Fixed missing posters in ArconaiTV
+- Fixed missing channel logos in Free Live TV (Extra)
+- Fixed duplicate channles in Free Live TV (Extra)
+- Removed OpenLoad Movies section
+
 [COLOR lightskyblue][B]Version 2.9.9[/B][/COLOR]
 - Fixed issue with Lodge TV
 - Fixed missing logos in Free Live TV (Extra) section
