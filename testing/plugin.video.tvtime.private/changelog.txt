@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 3.0.3[/B][/COLOR]
+- Fixed minor formatting issue in Fluxus IPTV
+
 [COLOR lightskyblue][B]Version 3.0.2[/B][/COLOR]
 - Removed urlresolver dependency For real this time :)
 
