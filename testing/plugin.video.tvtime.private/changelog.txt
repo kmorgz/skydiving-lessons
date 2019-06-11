@@ -1,3 +1,8 @@
+[COLOR lightskyblue][B]Version 3.0.4[/B][/COLOR]
+- Fixed minor formatting issue in Fluxus sections
+- Fixed Free Live TV (Extra)
+- Added CBS News Los Angeles to Free Live TV (Extra)
+
 [COLOR lightskyblue][B]Version 3.0.3[/B][/COLOR]
 - Fixed minor formatting issue in Fluxus IPTV
 
