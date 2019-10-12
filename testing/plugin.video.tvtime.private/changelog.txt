@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 3.0.8[/B][/COLOR]
+- More fixes for channels in Free Live TV (Extra)
+
 [COLOR lightskyblue][B]Version 3.0.7[/B][/COLOR]
 - Fixed missing channels in Free Live TV (Extra)
 
