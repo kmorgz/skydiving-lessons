@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="repository.redacted" name="redacted Private Add-on Repository" provider-name="redacted" version="1.0.8">
+<addon id="repository.redacted" name="redacted Private Add-on Repository" provider-name="redacted" version="1.0.9">
     <requires>
         <import addon="xbmc.addon" version="12.0.0" />
     </requires>
@@ -14,10 +14,15 @@
             <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
         </dir>
         <dir>
-			<info compressed="false">http://ynsfashion.co.uk/kodi/crep/addons.xml</info>
-			<checksum>http://ynsfashion.co.uk/kodi/crep/addons.xml.md5</checksum>
-			<datadir zip="true">http://ynsfashion.co.uk/kodi/crep/zips</datadir>
+			<info compressed="false">https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml</info>
+			<checksum>https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/tvaddonsco/tva-release-repo/raw/master/</datadir>
         </dir>
+        <dir>
+			<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+			<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+		</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Private Add-on Repository</summary>
