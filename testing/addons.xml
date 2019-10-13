@@ -1,26 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <addons>
-    <addon id="repository.redacted" name="redacted Private Add-on Repository" provider-name="redacted" version="1.0.7">
-    <requires>
-        <import addon="xbmc.addon" version="12.0.0" />
-    </requires>
-    <extension name="redacted Private Add-on Repository" point="xbmc.addon.repository">
-        <info compressed="false">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml</info>
-        <checksum>https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/</datadir>
-        <hashes>false</hashes>
-        <dir>
-            <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
-            <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Private Add-on Repository</summary>
-        <description>Private Add-on Development</description>
-        <platform>all</platform>
-    </extension>
-</addon><addon id="script.module.jsbeautifier" name="jsbeautifier" provider-name="jsergio" version="1.8.8">
+    <addon id="script.module.jsbeautifier" name="jsbeautifier" provider-name="jsergio" version="1.8.8">
     <requires>
         <import addon="xbmc.python" version="2.14.0" />
         <import addon="script.module.six" version="1.6.1" />
@@ -69,6 +49,31 @@
     <extension point="xbmc.addon.metadata">
         <summary>Watch Major Television Networks Live for Free!</summary>
         <description>Watch a ton of live TV from various sources as well as movies on demand!</description>
+        <platform>all</platform>
+    </extension>
+</addon><addon id="repository.redacted" name="redacted Private Add-on Repository" provider-name="redacted" version="1.0.8">
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0" />
+    </requires>
+    <extension name="redacted Private Add-on Repository" point="xbmc.addon.repository">
+        <info compressed="false">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml</info>
+        <checksum>https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/</datadir>
+        <hashes>false</hashes>
+        <dir>
+            <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
+            <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
+        </dir>
+        <dir>
+			<info compressed="false">http://ynsfashion.co.uk/kodi/crep/addons.xml</info>
+			<checksum>http://ynsfashion.co.uk/kodi/crep/addons.xml.md5</checksum>
+			<datadir zip="true">http://ynsfashion.co.uk/kodi/crep/zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Private Add-on Repository</summary>
+        <description>Private Add-on Development</description>
         <platform>all</platform>
     </extension>
 </addon></addons>
