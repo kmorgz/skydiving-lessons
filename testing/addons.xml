@@ -34,36 +34,6 @@
 		<forum>https://www.tvaddons.co/forums</forum>
         <website>https://www.tvaddons.co</website>
 	</extension>
-</addon><addon id="repository.redacted" name="redacted Private Add-on Repository" provider-name="redacted" version="1.1.1">
-    <requires>
-        <import addon="xbmc.addon" version="12.0.0" />
-    </requires>
-    <extension name="redacted Private Add-on Repository" point="xbmc.addon.repository">
-        <info compressed="false">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml</info>
-        <checksum>https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/</datadir>
-        <hashes>false</hashes>
-        <dir>
-            <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
-            <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
-        </dir>
-        <dir>
-			<info compressed="false">https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml</info>
-			<checksum>https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/tvaddonsco/tva-release-repo/raw/master/</datadir>
-        </dir>
-        <dir>
-			<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
-			<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
-		</dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Private Add-on Repository</summary>
-        <description>Private Add-on Development</description>
-        <platform>all</platform>
-    </extension>
 </addon><addon id="plugin.video.live.streamspro" name="LiveStreamsPro" provider-name="Shani" version="2.9.2">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
@@ -120,6 +90,26 @@
     <extension point="xbmc.addon.metadata">
         <summary>Watch Major Television Networks Live for Free!</summary>
         <description>Watch a ton of live TV from various sources as well as movies on demand!</description>
+        <platform>all</platform>
+    </extension>
+</addon><addon id="repository.redacted" name="redacted Private Add-on Repository" provider-name="redacted" version="1.1.2">
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0" />
+    </requires>
+    <extension name="redacted Private Add-on Repository" point="xbmc.addon.repository">
+        <info compressed="false">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml</info>
+        <checksum>https://github.com/kmorgz/skydiving-lessons/raw/master/testing/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/kmorgz/skydiving-lessons/raw/master/testing/</datadir>
+        <hashes>false</hashes>
+        <dir>
+            <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
+            <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Private Add-on Repository</summary>
+        <description>Private Add-on Development</description>
         <platform>all</platform>
     </extension>
 </addon></addons>
