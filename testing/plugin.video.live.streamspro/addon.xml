@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="plugin.video.live.streamspro" name="LiveStreamsPro" provider-name="Shani" version="2.9.2">
+<addon id="plugin.video.live.streamspro" name="LiveStreamsPro" version="2.9.2" provider-name="Shani">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.beautifulsoup" version="3.2.1" />
     <import addon="script.module.simple.downloader" version="0.9.4" />
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-    <import addon="script.module.liveresolver" optional="true" version="0.1.24" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true" />
     <import addon="script.module.youtube.dl" optional="true" />
     <import addon="plugin.video.youtube" optional="true" />
     <import addon="script.module.resolveurl" optional="true" />
@@ -16,7 +16,7 @@
     <import addon="script.module.slproxy" optional="true" />
     <import addon="script.module.pyamf" optional="true" />
   </requires>
-  <extension library="default.py" point="xbmc.python.pluginsource">
+  <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
 
