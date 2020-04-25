@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 3.1.2[/B][/COLOR]
+- Updated to changes to Free Live TV
+
 [COLOR lightskyblue][B]Version 3.1.1[/B][/COLOR]
 - Fixed ustvgo channels
 - Added several CBSN local stations
