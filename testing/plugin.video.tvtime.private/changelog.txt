@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 3.1.5[/B][/COLOR]
+- Fixed encoding issue
+
 [COLOR lightskyblue][B]Version 3.1.4[/B][/COLOR]
 - Updated for new API
 
