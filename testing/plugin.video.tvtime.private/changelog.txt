@@ -1,3 +1,6 @@
+[COLOR lightskyblue][B]Version 3.1.6[/B][/COLOR]
+- Added Channel Search for Free Live TV section
+
 [COLOR lightskyblue][B]Version 3.1.5[/B][/COLOR]
 - Fixed encoding issue
 
